@@ -23,14 +23,10 @@ def granicus_check(site):
     'support.granicus',
     'digital-services-suite'
     ]
-#added error_words to prevent false positives
+#added error_words to prevent false positives, e.g. corporate granicus site links
 
-#    if 'granicus' in site and not 'government-website-design' in site:
     if 'granicus' in site and not any(error_word in site for error_word in error_words):
         return True
-
-#needs to prevent corporate granicus site links, 'www.granicus.com'
-
 
 def legistar_check(site):
     if 'legistar' in site:
@@ -71,14 +67,17 @@ with open ('D:\Github\civic-scraper_Mark\\CA_city_websites_final.csv', encoding=
                 continue
 
         anchors = response.html.find('a', containing='Agenda')
-        link = 'None'
+
         for anchor in anchors:
+            link = 'None'
             if 'AGENDA' in (anchor.text).upper():
-                link = anchor.absolute_links
+                link = (str(anchor.absolute_links)).strip('{}')
+                if link[-3:] == 'pdf':
+                    continue
                 break
             else:
                 continue
-        data.append(str(link))
+        data.append(link)
 #this new section tries to extract links with anchor text 'Agenda'
 #should make this a loop for each link with Agenda so that it does the Granicus / Legistar search for a reliance score
 #also need to strip out the '{}' from the html links
