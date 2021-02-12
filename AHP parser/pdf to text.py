@@ -54,7 +54,7 @@ for filename in os.listdir('D:\Github\city-agenda-scraper\Report_samples'):
     if filename.endswith(".pdf"):
         pdf = pikepdf.open(path+filename)
         pdf.save(path+'EXTRACT'+filename)
-        output_file = open('D:\\Github\\city-agenda-scraper\\Report_samples\\text_files\\' + filename.replace('.pdf', '.txt'), 'w')
+        output_file = open('D:\Github\city-agenda-scraper\Report_samples\\text_files\\' + filename.replace('.pdf', '.txt'), 'w')
         try:
             output_file.write(convert_pdf_to_txt(path+'EXTRACT'+filename))
         except Exception as e:
