@@ -56,7 +56,7 @@ def IQM2_check(site):
 
 session = HTMLSession()
 i = 0
-output_file = open('D:\\Github\\civic-scraper_Mark\\granicus_list3.csv', 'a+')
+output_file = open('D:\\Github\\city-agenda-scraper\\AHP_list.csv', 'a+')
 with open ('D:\Github\civic-scraper_Mark\\CA_city_websites_final.csv', encoding="utf-8") as csvfile:
     reader = csv.reader((x.replace('\0', '') for x in csvfile))
     output_file.write(', '.join(['CITY', 'CITY_URL', 'LEGISTAR', 'IQM2', 'GRANICUS', '\n']))
