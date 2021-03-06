@@ -10,6 +10,7 @@
 #-------------------------------------------------------------------------------
 
 from requests_html import HTMLSession
+import requests
 import csv
 from itertools import islice
 from urllib.parse import urlparse
@@ -19,6 +20,38 @@ def error_check(error):
     data.append(str(type(error)))
     data.append(str(error.args))
     data.append("\n")
+
+def novusagenda_check(site):
+
+    paths = [
+    '/agendapublic/',
+    'MeetingsGeneral.aspx'
+    ]
+
+    u = urlparse(site)
+    if any(path.upper() in (u.path).upper() for path in paths):
+        return (u.scheme + '://' + u.netloc + u.path)
+    else: return None
+
+# PLACE.novusagenda.com/agendapublic
+
+def primegov_check(site):
+
+    u = urlparse(site)
+    if (    u.path.upper() == 'primegov.com/public/portal/'.upper()
+            and requests.get(u.scheme + '://' + u.netloc + u.path + 'search').status_code == 200):
+        return (u.scheme + '://' + u.netloc + u.path)
+    else: return None
+
+# not working yet .... line 43 u.path needs to only bring /portal, not /portal/meeting/\
+# PLACE.primegov.com/public/portal/search
+
+def IQM2_check(site):
+
+    u = urlparse(site)
+    if u.path == '/Citizens/Detail_Meeting.aspx' or '/Citizens/default.aspx':
+        return (u.scheme + '://' + u.netloc + u.path)
+    else: return None
 
 def granicus_check(site):
 
@@ -46,24 +79,33 @@ def legistar_check(site):
 
 #    Legistar site = 'https://alameda.legistar.com/Calendar.aspx'
 
-def IQM2_check(site):
 
-    u = urlparse(site)
-    if u.path == '/Citizens/Detail_Meeting.aspx' or '/Citizens/default.aspx':
-        return (u.scheme + '://' + u.netloc + u.path)
-    else: return None
 
 
 session = HTMLSession()
 i = 0
-output_file = open('D:\\Github\\city-agenda-scraper\\AHP_list.csv', 'a+')
+
+output_file = open('D:\\Github\\civic-scraper_Mark\\granicus_list4.csv', 'a+')
 with open ('D:\Github\civic-scraper_Mark\\CA_city_websites_final.csv', encoding="utf-8") as csvfile:
     reader = csv.reader((x.replace('\0', '') for x in csvfile))
-    output_file.write(', '.join(['CITY', 'CITY_URL', 'LEGISTAR', 'IQM2', 'GRANICUS', '\n']))
+
+    output_file.write(', '.join([
+    'CITY',
+    'CITY_URL',
+    'LEGISTAR',
+    'IQM2',
+    'NOVUSAGENDA',
+    'PRIMEGOV',
+    'GRANICUS',
+    '\n'
+    ]))
+
     for row in islice(reader, 0, None):
         legistar = ''
         granicus = []
         IQM2 = ''
+        novus = ''
+        primegov = ''
         data = []
         print('Im accessing: ' + row[0])
         try:
@@ -84,6 +126,16 @@ with open ('D:\Github\civic-scraper_Mark\\CA_city_websites_final.csv', encoding=
                 if legistar != None:
                     break
 
+            if 'novus' in site:
+                novus = novusagenda_check(site)
+                if novus != None:
+                    break
+
+            if 'primegov' in site:
+                primegov = primegov_check(site)
+                if primegov != None:
+                    break
+
             if 'iqm2' in site:
                 IQM2 = IQM2_check(site)
                 if IQM2 != None:
@@ -93,7 +145,16 @@ with open ('D:\Github\civic-scraper_Mark\\CA_city_websites_final.csv', encoding=
                 if granicus_check(site) != None:
                     granicus.append(str(granicus_check(site)))
 
-        data = [row[0], row[2], str(legistar), str(IQM2), '; '.join(granicus), '\n']
+        data = [
+        row[0],
+        row[2],
+        str(legistar),
+        str(IQM2),
+        str(novus),
+        str(primegov),
+        '; '.join(granicus),
+        '\n'
+        ]
         output_file.write(', '.join(data))
         output_file.flush()
         i += 1
