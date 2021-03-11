@@ -30,4 +30,16 @@ def demo_dryscape(url):
 
 # Set URL and pass to function
 url = 'https://sanjose.legistar.com/Calendar.aspx'
-js_demo(url)
+# demo_dryscape(url)
+
+# Javascript parsing demo using the selenium package:
+# Usage: Adapt code for parsing SJ agenda website
+# https://stackoverflow.com/questions/8049520/web-scraping-javascript-page-with-python
+!pip install selenium
+from selenium import webdriver
+driver = webdriver.PhantomJS()
+driver.get(my_url)
+p_element = driver.find_element_by_id(id="input#ctl00_ContentPlaceHolder1_lstYears_Input.rcbInput.radPreventDecorate")
+print(p_element.text)
+# result:
+# 'Yay! Supports javascript'
