@@ -2,21 +2,23 @@
 # Project: City Agenda Scraper
 # Summary: JS Parser Demo
 
-# Import module for Jupyter Notebook
+# Import modules for Jupyter Notebook
 # !pip install requests_html
+
+# Import modules for dryscape library
 # Note: dryscrape requires webkit-driver library
 # https://dryscrape.readthedocs.io/en/latest/installation.html
 # !sudo apt-get install qt5-default libqt5webkit5-dev build-essential \
 #                   python-lxml python-pip xvfb
 # !pip install dryscrape
 # !pip install bs4
-import dryscrape
-from bs4 import BeautifulSoup
+# import dryscrape
+# from bs4 import BeautifulSoup
 
 # Javascript parsing demo using the dryscrape package:
 # Usage: Adapt code for parsing SJ agenda website
 # https://stackoverflow.com/questions/8049520/web-scraping-javascript-page-with-python
-def js_demo(url):
+def demo_dryscape(url):
     dryscrape.start_xvfb()
     session = dryscrape.Session()
     session.visit(url)
