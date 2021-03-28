@@ -49,12 +49,12 @@ def convert_pdf_to_txt(path):
 
 
 #change filename to be full directory
-path = 'D:\\Github\\city-agenda-scraper\\Report_samples\\'
-for filename in os.listdir('D:\Github\city-agenda-scraper\Report_samples'):
+path = './city-agenda-scraper/Report_samples/'
+for filename in os.listdir(path):
     if filename.endswith(".pdf"):
         pdf = pikepdf.open(path+filename)
         pdf.save(path+'EXTRACT_'+filename)
-        output_file = open('D:\\Github\\city-agenda-scraper\\Report_samples\\text_files\\' + filename.replace('.pdf', '.txt'), 'w')
+        output_file = open(path + 'text_files/' + filename.replace('.pdf', '.txt'), 'w')
         try:
             output_file.write(convert_pdf_to_txt(path+'EXTRACT_'+filename))
         except Exception as e:
