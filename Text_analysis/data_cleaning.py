@@ -43,7 +43,7 @@ def process_and_clean_data(text):
 def load_files_in_dir(directory):
 	out_dict = {}
 	for file in os.listdir(directory):
-		with open(os.path.join(directory, file), "r") as input_file:  # added encoding="Windows-1252" to make it work on colab Notebooks
+		with open(os.path.join(directory, file), "r") as input_file: #  added encoding="Windows-1252" to make it work on colab Notebooks
 			a = input_file.readlines()
 			if a:
 				out_dict[file] = [process_and_clean_data(a)]
