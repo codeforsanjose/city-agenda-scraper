@@ -13,8 +13,10 @@ import sys
 #logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 #logger = logging.getLogger(__name__)
 
-path = 
-output_dir =
+path = r"..\Agenda_samples\text_files"
+output_dir = r"..\output"
+#print(os.getcwd())
+#print(os.listdir(path))
 agenda_folder = os.listdir(path)
 
 def combine_text(list_of_text):
