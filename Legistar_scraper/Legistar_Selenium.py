@@ -21,7 +21,7 @@ import pandas as pd
 from datetime import date, timedelta
 
 path = 'D:\\Github\\city-agenda-scraper\\agenda_tables\\'
-#this is the path from where meeting.csv files should go
+#this is the path from where meeting.csv files should go, change it as appropriate
 url = 'https://sanjose.legistar.com/Calendar.aspx'
 # test url for now, later will be list of urls to loop thru
 session = HTMLSession()
@@ -64,11 +64,7 @@ def scrape_meetings(url):
     for item in links:
         get_agenda(item)
 
-#    for item in pd.read_html(driver.page_source):
-#        print('---- ', j, ' ----')
-#        print(item.head())
-#        j += 1
-# table[9] seems like the one we want
+#    pd.read_html(driver.page_source) could be used to take tables in Selenium instead of requests_html
 
 def get_agenda(link):
 
@@ -100,10 +96,11 @@ def get_agenda(link):
 # Grabs column of File # to find Staff Report hyperlinks
     data = []
     r2 = session.get(link)
-# Loads Legistar 'Meeting Details' page (the [:-13] removes the 'Calendar.aspx')
+# Loads Legistar 'Meeting Details' page
 
     for item in l:
         if not item:
+            # this checks for blank rows with no File # (Staff Report)
             data.append('')
         else:
             report = r2.html.find('a', containing=str(item), first=True)
