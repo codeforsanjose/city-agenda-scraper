@@ -13,8 +13,10 @@ import sys
 #logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 #logger = logging.getLogger(__name__)
 
-path = 
-output_dir =
+path = r"..\Agenda_samples\text_files"
+output_dir = r"..\output"
+#print(os.getcwd())
+#print(os.listdir(path))
 agenda_folder = os.listdir(path)
 
 def combine_text(list_of_text):
@@ -41,7 +43,7 @@ def process_and_clean_data(text):
 def load_files_in_dir(directory):
 	out_dict = {}
 	for file in os.listdir(directory):
-		with open(os.path.join(directory, file), "r") as input_file:
+		with open(os.path.join(directory, file), "r") as input_file: #  added encoding="Windows-1252" to make it work on colab Notebooks
 			a = input_file.readlines()
 			if a:
 				out_dict[file] = [process_and_clean_data(a)]
