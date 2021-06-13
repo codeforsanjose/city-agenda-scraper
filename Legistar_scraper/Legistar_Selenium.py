@@ -9,22 +9,30 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
-import selenium
+# %%
+import json
+import os
+import sys
+from datetime import date, timedelta
 from requests_html import HTMLSession
 from selenium import webdriver
-from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-import urllib.parse
 import pandas as pd
-from datetime import date, timedelta
+env = json.load(open(os.getcwd() + '/env.json', 'r'))
+args = sys.argv
 
-path = 'D:\\Github\\city-agenda-scraper\\agenda_tables\\'
-#this is the path from where meeting.csv files should go, change it as appropriate
-url = 'https://sanjose.legistar.com/Calendar.aspx'
+# %%
+url = args[1]
 # test url for now, later will be list of urls to loop thru
 session = HTMLSession()
+
+
+def use_path(local_path):
+    if sys.platform == 'Windows':
+        local_path = local_path.replace('/', '\\')
+    return env.path + local_path
 
 
 def set_date(start_date=date.today(), end_date=date.today() + timedelta(days=7)):
@@ -40,15 +48,11 @@ def scrape_meetings(url):
     driver = webdriver.Firefox()
     driver.get(url)
     WebDriverWait(driver, 5)
-    dateselector = driver.find_element_by_id('ctl00_ContentPlaceHolder1_tdYears').click()
     dates = driver.find_elements_by_tag_name('li')
-#    print(dates)
-    index = 0
     i = 0
 # not sure why we're looking for "Last Week", changed to "Last Year"
-    for date in dates:
-        if date.text == 'Last Year':
-            index = i
+    for iter_date in dates:
+        if iter_date.text == 'Last Year':
             break
         i += 1
     dates[i + set_date()].click()
@@ -59,7 +63,7 @@ def scrape_meetings(url):
     elements = driver.find_elements_by_link_text('Meeting details')
     for element in elements:
         link = element.get_attribute('href')
-        if link != None:
+        if link is not None:
             links.append(link)
     for item in links:
         get_agenda(item)
@@ -85,9 +89,9 @@ def get_agenda(link):
 
     tables = pd.read_html(link, keep_default_na=False)
 
-    Meeting_name = tables[2].iloc[0,1]
+    meeting_name = tables[2].iloc[0,1]
 # Grabbing meeting name from tables
-    Date = (tables[3].iloc[0,1]).split(' ')[0].replace('/', '-')
+    target_date = (tables[3].iloc[0,1]).split(' ')[0].replace('/', '-')
 # Grabbing meeting date from tables
     tables[11] = tables[11].reindex(columns = header_list)
 # This adds a new column to dataframe for the 'Staff Report link'
@@ -112,10 +116,8 @@ def get_agenda(link):
                 continue
 
     tables[11]['Staff Report link'] = data
-    tables[11].to_csv((path + Meeting_name + ' ' + Date + '.csv'), index=False, errors='replace')
+    tables[11].to_csv((path + meeting_name + ' ' + target_date + '.csv'), index=False, errors='replace')
 # Creates filename with 'Meeting Name' and 'Date'
 
 
-
 scrape_meetings(url)
-
