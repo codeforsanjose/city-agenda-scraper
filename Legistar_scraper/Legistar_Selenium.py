@@ -20,7 +20,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import pandas as pd
-env = json.load(open(os.getcwd() + '/env.json', 'r'))
+from dotenv import load_dotenv
+
+load_dotenv()
+root_dir = os.environ.get('root_dir')
 args = sys.argv
 
 # %%
@@ -32,7 +35,7 @@ session = HTMLSession()
 def use_path(local_path):
     if sys.platform == 'Windows':
         local_path = local_path.replace('/', '\\')
-    return env.path + local_path
+    return root_dir + local_path
 
 
 def set_date(start_date=date.today(), end_date=date.today() + timedelta(days=7)):
