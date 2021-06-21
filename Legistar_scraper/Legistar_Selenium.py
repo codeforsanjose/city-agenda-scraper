@@ -10,7 +10,6 @@
 #-------------------------------------------------------------------------------
 
 # %%
-import json
 import os
 import sys
 from datetime import date, timedelta
@@ -23,19 +22,11 @@ import pandas as pd
 from dotenv import load_dotenv
 
 load_dotenv()
-root_dir = os.environ.get('root_dir')
-args = sys.argv
+full_path = os.environ.get('full_path')
+current_city = sys.argv[1]
 
 # %%
-url = args[1]
-# test url for now, later will be list of urls to loop thru
 session = HTMLSession()
-
-
-def use_path(local_path):
-    if sys.platform == 'Windows':
-        local_path = local_path.replace('/', '\\')
-    return root_dir + local_path
 
 
 def set_date(start_date=date.today(), end_date=date.today() + timedelta(days=7)):
@@ -49,45 +40,27 @@ def set_date(start_date=date.today(), end_date=date.today() + timedelta(days=7))
 def scrape_meetings(url):
 
     driver = webdriver.Firefox()
-    driver.get(url)
-    WebDriverWait(driver, 5)
-    dates = driver.find_elements_by_tag_name('li')
-    i = 0
-# not sure why we're looking for "Last Week", changed to "Last Year"
-    for iter_date in dates:
-        if iter_date.text == 'Last Year':
+    driver.get("https://%s.legistar.com/Calendar.aspx" %(url))
+    WebDriverWait(driver, 10000).until(EC.presence_of_element_located(
+        (By.ID, 'ctl00_ContentPlaceHolder1_tdYears')))
+    driver.find_element_by_id('ctl00_ContentPlaceHolder1_tdYears').click()
+    dates = driver.find_element_by_id('ctl00_ContentPlaceHolder1_lstYears_DropDown')
+    for i, val in enumerate(dates.find_elements_by_tag_name('li')):
+        if val.text == 'Last Month':
+            dates[i].click()
             break
-        i += 1
-    dates[i + set_date()].click()
-    WebDriverWait(driver, 5).until(
-    EC.presence_of_element_located((By.ID, 'ctl00_ContentPlaceHolder1_gridCalendar_ctl00'))
-    )
-    links = []
-    elements = driver.find_elements_by_link_text('Meeting details')
-    for element in elements:
+    WebDriverWait(driver, 10000).until(EC.presence_of_element_located(
+        (By.ID, 'ctl00_ContentPlaceHolder1_gridCalendar_ctl00')))
+    for element in driver.find_elements_by_link_text('Meeting details'):
         link = element.get_attribute('href')
         if link is not None:
-            links.append(link)
-    for item in links:
-        get_agenda(item)
+            get_agenda(link)
 
 #    pd.read_html(driver.page_source) could be used to take tables in Selenium instead of requests_html
 
 def get_agenda(link):
 
-    header_list = [
-    'File #',
-    'Staff Report link',
-    'Ver.',
-    'Agenda #',
-    'Agenda Note',
-    'Type',
-    'Title',
-    'Action',
-    'Result',
-    'Action Details',
-    'Video'
-    ]
+    header_list = [ 'File #', 'Staff Report link', 'Ver.', 'Agenda #', 'Agenda Note', 'Type', 'Title', 'Action', 'Result', 'Action Details', 'Video' ]
 # this is a revised list of headers for the output csv file.
 
     tables = pd.read_html(link, keep_default_na=False)
@@ -119,8 +92,8 @@ def get_agenda(link):
                 continue
 
     tables[11]['Staff Report link'] = data
-    tables[11].to_csv((path + meeting_name + ' ' + target_date + '.csv'), index=False, errors='replace')
+    tables[11].to_csv((full_path + meeting_name + '_' + target_date + '.csv'), index=False, errors='replace')
 # Creates filename with 'Meeting Name' and 'Date'
 
 
-scrape_meetings(url)
+scrape_meetings(current_city)
