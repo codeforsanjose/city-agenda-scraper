@@ -46,8 +46,8 @@ def scrape_meetings(url):
     driver.find_element_by_id('ctl00_ContentPlaceHolder1_tdYears').click()
     dates = driver.find_element_by_id('ctl00_ContentPlaceHolder1_lstYears_DropDown')
     for i, val in enumerate(dates.find_elements_by_tag_name('li')):
-        if val.text == 'Last Month':
-            dates[i].click()
+        if val.text == 'Next Week':
+            val.click()
             break
     WebDriverWait(driver, 10000).until(EC.presence_of_element_located(
         (By.ID, 'ctl00_ContentPlaceHolder1_gridCalendar_ctl00')))
@@ -59,6 +59,7 @@ def scrape_meetings(url):
 #    pd.read_html(driver.page_source) could be used to take tables in Selenium instead of requests_html
 
 def get_agenda(link):
+    print(link)
 
     header_list = [ 'File #', 'Staff Report link', 'Ver.', 'Agenda #', 'Agenda Note', 'Type', 'Title', 'Action', 'Result', 'Action Details', 'Video' ]
 # this is a revised list of headers for the output csv file.
