@@ -1,10 +1,8 @@
 import time
 from datetime import datetime
 import os
-import shutil
 from urllib.parse import urlparse
 from copy import deepcopy
-
 from numpy import nan, random
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -12,6 +10,8 @@ from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import StaleElementReferenceException, \
     NoSuchElementException
+import google_drive_uploader  # Import local function
+import Agenda_Report_URL_Scraper  # Import local function
 
 
 class PrimeGovScraper(object):
@@ -438,6 +438,21 @@ if __name__ == '__main__':
         "-b", "--bodies",
         help="Filter by body (optional)."
     )
+    parser.add_argument(
+        "-url", "--url_retrieve",
+        default=False,
+        help="Retrieve list of URL's to download"
+    )
+    parser.add_argument(
+        "-u", "--upload",
+        default=False,
+        help="Upload Files to Google Drive"
+    )
+    parser.add_argument(  # Path to G-Drive directory to upload files. Special note. this is a tag not a directory
+        "-g", "--g_path",
+        default='PrimeGov.data',
+        help="Upload Files to Google Drive"
+    )
     args = parser.parse_args()
     save_dir = os.path.abspath(args.output_dir)
 
@@ -458,6 +473,9 @@ if __name__ == '__main__':
         print('Scraping city...', city_args)
         try:
             doc_list_path = scrape_city(save_dir, city_args, filters)
+            if args.url_retrieve:
+                Agenda_Report_URL_Scraper.pull_agenda_reports(city_args, save_dir)
+
         except Exception as e:
             # send notification that scraping failed
             error_message = [
@@ -473,4 +491,23 @@ if __name__ == '__main__':
             log_args.update(city_args)
             print('Error: could not scrape city', log_args)
             continue
+
+    # Upload to Google Drive
+    if args.upload:
+        try:
+            file_list = os.listdir(save_dir)  # list of files to upload
+            google_drive_uploader.uploader(save_dir, args.g_path, file_list)
+        except Exception as e:
+            # send notification that upload failed
+            error_message = [
+                'Error: upload failed.'
+            ]
+
+            # log error
+            log_args = {
+                'error_message': str(e),
+            }
+            log_args.update()
+            print('Error: upload failed', log_args)
+
 
