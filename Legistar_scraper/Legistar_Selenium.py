@@ -9,7 +9,6 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
-# %%
 import os
 import sys
 from datetime import date, timedelta
@@ -24,8 +23,8 @@ from dotenv import load_dotenv
 load_dotenv()
 full_path = os.environ.get('full_path')
 current_city = sys.argv[1]
+time_period = sys.argv[2]
 
-# %%
 session = HTMLSession()
 
 
@@ -45,8 +44,8 @@ def scrape_meetings(url):
         (By.ID, 'ctl00_ContentPlaceHolder1_tdYears')))
     driver.find_element_by_id('ctl00_ContentPlaceHolder1_tdYears').click()
     dates = driver.find_element_by_id('ctl00_ContentPlaceHolder1_lstYears_DropDown')
-    for i, val in enumerate(dates.find_elements_by_tag_name('li')):
-        if val.text == 'Next Week':
+    for val in dates.find_elements_by_tag_name('li'):
+        if val.text == time_period:
             val.click()
             break
     WebDriverWait(driver, 10000).until(EC.presence_of_element_located(
@@ -55,6 +54,8 @@ def scrape_meetings(url):
         link = element.get_attribute('href')
         if link is not None:
             get_agenda(link)
+
+    driver.close()
 
 #    pd.read_html(driver.page_source) could be used to take tables in Selenium instead of requests_html
 
@@ -66,14 +67,15 @@ def get_agenda(link):
 
     tables = pd.read_html(link, keep_default_na=False)
 
-    meeting_name = tables[2].iloc[0,1]
+    meeting_name = tables[2].iloc[0,1].replace('/', '_')
 # Grabbing meeting name from tables
     target_date = (tables[3].iloc[0,1]).split(' ')[0].replace('/', '-')
 # Grabbing meeting date from tables
-    tables[11] = tables[11].reindex(columns = header_list)
+    last_table = len(tables) - 1
+    tables[last_table] = tables[last_table].reindex(columns = header_list)
 # This adds a new column to dataframe for the 'Staff Report link'
 
-    l = tables[11]['File #'].tolist()
+    l = tables[last_table]['File #'].tolist()
 # Grabs column of File # to find Staff Report hyperlinks
     data = []
     r2 = session.get(link)
@@ -92,8 +94,8 @@ def get_agenda(link):
                 data.append('Error')
                 continue
 
-    tables[11]['Staff Report link'] = data
-    tables[11].to_csv((full_path + meeting_name + '_' + target_date + '.csv'), index=False, errors='replace')
+    tables[last_table]['Staff Report link'] = data
+    tables[last_table].to_csv((full_path + meeting_name + '_' + target_date + '.csv'), index=False, errors='replace')
 # Creates filename with 'Meeting Name' and 'Date'
 
 
