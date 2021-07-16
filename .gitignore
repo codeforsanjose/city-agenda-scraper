@@ -1,3 +1,6 @@
+.env
+workspace.code-workspace
+
 *.gem
 *.rbc
 /.config
