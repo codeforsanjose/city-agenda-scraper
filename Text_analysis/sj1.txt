@@ -1,0 +1,1396 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2021-01-05T22:10:25Z" />
+<meta name="pdf:PDFVersion" content="1.7" />
+<meta name="pdf:docinfo:title" content="Agenda" />
+<meta name="xmp:CreatorTool" content="Crystal Reports" />
+<meta name="pdf:hasXFA" content="false" />
+<meta name="access_permission:modify_annotations" content="true" />
+<meta name="access_permission:can_print_degraded" content="true" />
+<meta name="dc:creator" content="Legistar" />
+<meta name="Last-Modified" content="2021-01-05T22:10:25Z" />
+<meta name="dcterms:modified" content="2021-01-05T22:10:25Z" />
+<meta name="dc:format" content="application/pdf; version=1.7" />
+<meta name="Last-Save-Date" content="2021-01-05T22:10:25Z" />
+<meta name="pdf:docinfo:creator_tool" content="Crystal Reports" />
+<meta name="access_permission:fill_in_form" content="true" />
+<meta name="pdf:docinfo:modified" content="2021-01-05T22:10:25Z" />
+<meta name="meta:save-date" content="2021-01-05T22:10:25Z" />
+<meta name="pdf:encrypted" content="false" />
+<meta name="dc:title" content="Agenda" />
+<meta name="modified" content="2021-01-05T22:10:25Z" />
+<meta name="pdf:hasMarkedContent" content="false" />
+<meta name="Content-Type" content="application/pdf" />
+<meta name="pdf:docinfo:creator" content="Legistar" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.pdf.PDFParser" />
+<meta name="creator" content="Legistar" />
+<meta name="meta:author" content="Legistar" />
+<meta name="access_permission:extract_for_accessibility" content="true" />
+<meta name="access_permission:assemble_document" content="true" />
+<meta name="xmpTPg:NPages" content="20" />
+<meta name="resourceName" content="b'SanJose_Legistar_01-05-2021.pdf'" />
+<meta name="pdf:hasXMP" content="false" />
+<meta name="access_permission:extract_content" content="true" />
+<meta name="access_permission:can_print" content="true" />
+<meta name="Author" content="Legistar" />
+<meta name="producer" content="PDFlib PLOP 4.1 (.NET/Win64)/Powered By Crystal" />
+<meta name="access_permission:can_modify" content="true" />
+<meta name="pdf:docinfo:producer" content="PDFlib PLOP 4.1 (.NET/Win64)/Powered By Crystal" />
+<title>Agenda</title>
+</head>
+<body><div class="page"><p />
+<p>City Council Meeting
+</p>
+<p>Agenda
+</p>
+<p>Tuesday, January 5, 2021
+1:30 PM
+</p>
+<p>Virtual Meeting - https://sanjoseca.zoom.us/j/91325378626
+</p>
+<p>SAM LICCARDO, MAYOR
+</p>
+<p>CHAPPIE JONES, VICE MAYOR, DISTRICT 1
+</p>
+<p>SERGIO JIMENEZ, DISTRICT 2 
+</p>
+<p>RAUL PERALEZ, DISTRICT 3 
+</p>
+<p>DAVID COHEN, DISTRICT 4 
+</p>
+<p>MAGDALENA CARRASCO, DISTRICT 5
+</p>
+<p>DEV DAVIS, DISTRICT 6
+</p>
+<p>MAYA ESPARZA, DISTRICT 7
+</p>
+<p>SYLVIA ARENAS, DISTRICT 8
+</p>
+<p>PAM FOLEY, DISTRICT 9
+</p>
+<p>MATT MAHAN, DISTRICT 10</p>
+<p />
+</div>
+<div class="page"><p />
+<p>The City of San José is committed to open and honest government and strives to consistently meet the 
+</p>
+<p>community’s expectations by providing excellent service, in a positive and timely manner, and in the 
+</p>
+<p>full view of the public. 
+</p>
+<p>Welcome to the San José City Council meeting! 
+</p>
+<p>This Agenda contains both a Consent Calendar section for routine business items that require Council 
+</p>
+<p>approval, and general business items arranged to correspond with San José’s City Service Areas (CSAs). 
+</p>
+<p>City Service Areas represent the policy-making level for strategic planning, policy setting, and investment 
+</p>
+<p>decisions in the critical functions the City provides to the community. They are: 
+</p>
+<p>• Strategic Support - The internal functions that enable the CSAs to provide direct 
+</p>
+<p>   services to the community in an effective and efficient manner.
+</p>
+<p>• Public Safety - Commitment to excellence in public safety by investing in neighborhood 
+</p>
+<p>  partnerships as well as prevention, enforcement, and emergency preparedness services.
+</p>
+<p>• Transportation &amp; Aviation Services - A safe and efficient transportation system that contributes to 
+</p>
+<p>  the livability and economic health of the City; and provide for the air transportation needs of the 
+</p>
+<p>  community and the region at levels that is acceptable to the community.
+</p>
+<p>• Environmental and Utility Services - Manage environmental services and utility systems to ensure 
+</p>
+<p>  a sustainable environment for the community.   
+</p>
+<p>• Neighborhood Services - Serve, foster, and strengthen community by providing access to lifelong 
+</p>
+<p>   learning and opportunities to enjoy life.  
+</p>
+<p>• Community &amp; Economic Development - Manage the growth and change of the community in 
+</p>
+<p>   order to create and preserve healthy neighborhoods and ensure a diverse range of employment and 
+</p>
+<p>   housing opportunities.
+</p>
+<p>You may speak to the City Council about any discussion item that is on the agenda, and you may also speak 
+</p>
+<p>during Open Forum on items that are not on the agenda and are within the subject matter jurisdiction of the 
+</p>
+<p>City Council or Successor Agency to the Redevelopment Agency Board. If you wish to speak to the City 
+</p>
+<p>Council, please refer to the following guidelines:
+</p>
+<p>o Fill out a Yellow Speaker’s Card and submit it to the City Clerk seated at the front table. Do 
+</p>
+<p>   this before the meeting or before the item is heard. This will ensure that your name is called for 
+</p>
+<p>   the item(s) that you wish to address, and it will help ensure the meeting runs smoothly for all 
+</p>
+<p>   participants. 
+</p>
+<p>o When the Council reaches your item on the agenda, the Mayor will open the public hearing and call 
+</p>
+<p>   your name. Please address the Council from the podium, which is located to the left of the City 
+</p>
+<p>   Clerk’s table. </p>
+<p />
+</div>
+<div class="page"><p />
+<p>o Each speaker generally has two minutes to speak per item. The amount of time allotted to 
+</p>
+<p>     speakers may vary at the Mayor’s discretion, depending on the number of speakers or the length 
+</p>
+<p>     of the agenda. 
+</p>
+<p>o To assist you in tracking your speaking time, there is a display on the podium. The green light 
+</p>
+<p>     turns on when you begin speaking; the yellow light turns on when you have 30 seconds left; and 
+</p>
+<p>     the red light turns on when your speaking time is up. 
+</p>
+<p>Please be advised that, by law, the City Council is unable to discuss or take action on issues presented during 
+</p>
+<p>Open Forum. According to State Law (the Brown Act) items must first be noticed on the agenda before any 
+</p>
+<p>discussion or action.
+</p>
+<p>The San José City Council meets every Tuesday at 1:30 p.m. and Tuesday at 6 p.m. as needed, 
+</p>
+<p>unless otherwise noted.  The City Council, or less than a quorum, may adjourn any regular, special 
+</p>
+<p>or adjourned meeting to a later date, time and place specified in the order of adjournment.  If all 
+</p>
+<p>members are absent, the City Clerk may declare the meeting adjourned to a stated date, time and 
+</p>
+<p>place. If you have any questions, please direct them to the City Clerk’s staff seated at the tables 
+</p>
+<p>just below the dais.  Thank you for taking the time to attend today’s meeting.  We look forward to 
+</p>
+<p>seeing you at future meetings.
+</p>
+<p>Agendas, Staff Reports and some associated documents for City Council items may be viewed on 
+</p>
+<p>the Internet at https://www.sanjose.legistar.com/Calendar.aspx.  Council Meetings are televised 
+</p>
+<p>live and rebroadcast on Channel 26. 
+</p>
+<p>All public records relating to an open session item on this agenda, which are not exempt from 
+</p>
+<p>disclosure pursuant to the California Public Records Act, that are distributed to a majority of the 
+</p>
+<p>legislative body will be available for public inspection at the Office of the City Clerk at San José 
+</p>
+<p>City Hall, 200 E. Santa Clara Street, Tower 14th Floor, San José, CA 95113 at the same time that 
+</p>
+<p>the public records are distributed or made available to the legislative body.  Any draft contracts, 
+</p>
+<p>ordinances and resolutions posted on the Internet site or distributed in advance of the Council 
+</p>
+<p>meeting may not be the final documents approved by the City Council.  Please go to the Clerk’s 
+</p>
+<p>Records Database https://records.sanjoseca.gov/Pages/Search.aspx for the final document, or you 
+</p>
+<p>many also contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov.
+</p>
+<p>American Disability Act: To request an alternative format agenda under the Americans with 
+</p>
+<p>Disabilities Act for City-sponsored meetings, events or printer materials, please call (408) 
+</p>
+<p>535-1260 as soon as possible, but at least three business days before the meeting. 
+</p>
+<p>Accommodations: Any member of the public who needs accommodations should email the ADA 
+</p>
+<p>Coordinator at ADA@sanjoseca.gov or by calling (408) 535-8430. The ADA Coordinator will use 
+</p>
+<p>their best efforts to provide reasonable accommodations to provide as much accessibility as 
+</p>
+<p>possible while also maintaining public safety in accordance with the City procedure for resolving 
+</p>
+<p>reasonable accommodation requests.
+</p>
+<p>On occasion the City Council may consider agenda items out of order.</p>
+<p />
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>* COVID-19 NOTICE *
+</p>
+<p>Consistent with the California Governor’s Executive Order No. N-29-20, Resolution No. 79485 from the 
+</p>
+<p>City of San José and the Santa Clara County Health Officer’s March 16, 2020 Shelter in Place Order, the 
+</p>
+<p>City Council meeting will not be physically open to the public and the City Council will be teleconferencing 
+</p>
+<p>from remote locations.
+</p>
+<p>How to observe the Meeting (no public comment):
+</p>
+<p>1) Cable Channel 26, 
+</p>
+<p>2) https://www.sanjoseca.gov/news-stories/watch-a-meeting, or 
+</p>
+<p>3) https://www.youtube.com/CityofSanJoseCalifornia
+</p>
+<p>How to submit written Public Comment before the City Council Meeting:
+</p>
+<p>1) Use the eComment tab located on the City Council Agenda page. eComments are also directly sent to 
+</p>
+<p>the ilegislate application used by City Council and staff. 
+</p>
+<p>2) By email to city.clerk@sanjoseca.gov by 10:00 a.m. the day of the meeting. Those emails will be 
+</p>
+<p>attached to the Council Item under “Letters from the Public.” Please identify the Agenda Item Number in 
+</p>
+<p>the subject line of your email.
+</p>
+<p>How to submit written Public Comment during the City Council Meeting:
+</p>
+<p>1) Email during the meeting to councilmeeting@sanjoseca.gov, identifying the Agenda Item Number in the 
+</p>
+<p>email subject line. Comments received will be included as a part of the meeting record but will not be read 
+</p>
+<p>aloud during the meeting.
+</p>
+<p>How to provide spoken Public Comment during the City Council Meeting:
+</p>
+<p>1) By Phone: (888) 475 4499. Webinar ID is 913 2537 8626. Click *9 to raise a hand to speak.  Click *6 
+</p>
+<p>to unmute when called.
+</p>
+<p>Alternative phone numbers are: US: +1 (213) 338-8477  or +1 (408) 638-0968  or (877) 853-5257 (Toll 
+</p>
+<p>Free)
+</p>
+<p>2) Online at: https://sanjoseca.zoom.us/j/91325378626
+</p>
+<p>a. Use a current, up-to-date browser: Chrome 30+, Firefox 27+, Microsoft Edge 12+, Safari 7+. Certain 
+</p>
+<p>functionality may be disabled in older browsers including Internet Explorer. Mute all other audio before 
+</p>
+<p>speaking.  Using multiple devices can cause an audio feedback.
+</p>
+<p>b. Enter an email address and name. The name will be visible online and will be used to notify you that it is 
+</p>
+<p>your turn to speak.
+</p>
+<p>c. When the Mayor calls for the item on which you wish to speak, click on “raise hand.” Speakers will be 
+</p>
+<p>notified shortly before they are called to speak.
+</p>
+<p>d. When called, please limit your remarks to the time limit allotted.
+</p>
+<p>Page 4 City of San José Printed on 1/5/2021</p>
+<p />
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>For Closed Captions, please visit the City’s YouTube channel: 
+</p>
+<p>https://www.youtube.com/CityofSanJoseCalifornia, or website live stream 
+</p>
+<p>https://www.sanjoseca.gov/news-stories/watch-a-meeting.
+</p>
+<p>•  Call to Order and Roll Call
+</p>
+<p>Closed Session-Cancelled
+</p>
+<p>1:30 p.m. -  Regular Session
+</p>
+<p>•  Pledge of Allegiance
+</p>
+<p>•  Invocation (District 1)
+</p>
+<p>Thomas Davis, the People of Color Sangha Practice Group
+</p>
+<p>•  Orders of the Day
+</p>
+<p>To be heard after Ceremonial Items
+</p>
+<p>Items recommended to be added, dropped, or deferred are usually approved under Orders of the 
+</p>
+<p>Day unless the Council directs otherwise.
+</p>
+<p>•  Closed Session Report
+</p>
+<p>To be heard after Ceremonial Items
+</p>
+<p>1.  CEREMONIAL ITEMS
+</p>
+<p>Oaths of Office for Newly Elected and Re-Elected Councilmembers.
+</p>
+<p>2.  CONSENT CALENDAR
+</p>
+<p>Notice to the public: There will be no separate discussion of Consent Calendar items as they are 
+</p>
+<p>considered to be routine by the City Council and will be adopted by one motion. If a member of 
+</p>
+<p>the City Council, staff, or public requests discussion on a particular item, that item may be 
+</p>
+<p>removed from the Consent Calendar and considered separately.
+</p>
+<p>2.1  Approval of City Council Minutes.
+</p>
+<p>2.2  Final Adoption of Ordinances.
+</p>
+<p>Page 5 City of San José Printed on 1/5/2021</p>
+<p />
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>21-023 Final Adoption of Ordinances.
+</p>
+<p>Recommendation: (a) Ordinance No. 30508 - An Ordinance of the City of San José 
+</p>
+<p>Prezoning Certain Real Property of Approximately 0.99-Gross Acre, 
+</p>
+<p>Situated Approximately 50 Feet South of the Southeast Corner of 
+</p>
+<p>Fleming Avenue and Nob Hill Drive (APN: 601-29-008) from 
+</p>
+<p>Unincorporated Territory to the R-1-8 Single-Family Residence Zoning 
+</p>
+<p>District. 
+</p>
+<p>[Passed for Publication on 12/15/2020 - Item 10.1(a) (20-1647)]
+</p>
+<p>2.3  Approval of Council Committee Minutes.
+</p>
+<p>Page 6 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8157">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8157</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>21-055 Approval of Council Committee Minutes.
+</p>
+<p>Recommendation: (a) Regular Joint Meeting for the Rules and Open Government 
+</p>
+<p>Committee and Committee of the Whole Meeting Minutes of 
+</p>
+<p>September 23, 2020.
+</p>
+<p>(b) Regular Joint Meeting for the Rules and Open Government 
+</p>
+<p>Committee and Committee of the Whole Meeting Minutes of October 
+</p>
+<p>7, 2020.
+</p>
+<p>(c) Regular Joint Meeting for the Rules and Open Government 
+</p>
+<p>Committee and Committee of the Whole Meeting Minutes of October 
+</p>
+<p>14, 2020.
+</p>
+<p>(d) Regular Joint Meeting for the Rules and Open Government 
+</p>
+<p>Committee and Committee of the Whole Meeting Minutes of October 
+</p>
+<p>21, 2020.
+</p>
+<p>(e) Regular Joint Meeting for the Rules and Open Government 
+</p>
+<p>Committee and Committee of the Whole Meeting Minutes of October 
+</p>
+<p>28, 2020.
+</p>
+<p>(f) Regular Joint Meeting for the Rules and Open Government 
+</p>
+<p>Committee and Committee of the Whole Meeting Minutes of November 
+</p>
+<p>4, 2020.
+</p>
+<p>(g) Regular Neighborhood Services and Education Committee Meeting 
+</p>
+<p>Minutes of October 8, 2020.
+</p>
+<p>(h) Regular Neighborhood Services and Education Committee Meeting 
+</p>
+<p>Minutes of November 12, 2020.
+</p>
+<p>(i) Regular Community and Economic Development Committee 
+</p>
+<p>Meeting Minutes of October 26, 2020.
+</p>
+<p>(j) Regular Transportation and Environment Committee Meeting 
+</p>
+<p>Minutes of November 2, 2020.
+</p>
+<p>(k) Regular Smart Cities and Service Improvements Committee Meeting 
+</p>
+<p>Minutes of November 5, 2020 .
+</p>
+<p>CEQA: Not a Project, File No. PP17-009, Staff Reports, Assessments, 
+</p>
+<p>Annual Reports, and Informational Memos that involve no approvals of 
+</p>
+<p>any City action.
+</p>
+<p>Page 7 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8195">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8195</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>(a) 9/23/2020 ROGC Minutes
+</p>
+<p>(b) 10/7/2020 ROGC Minutes
+</p>
+<p>(c) 10/14/2020 ROGC Minutes
+</p>
+<p>(d) 10/21/2020 ROGC Minutes
+</p>
+<p>(e) 10/28/2020 ROGC Minutes
+</p>
+<p>(f) 11/4/2020 ROGC Minutes
+</p>
+<p>(g) 10/8/2020 NSE Minutes
+</p>
+<p>(h) 11/12/2020 NSE Minutes
+</p>
+<p>(i) 10/26/2020 CED Minutes
+</p>
+<p>(j) 11/2/2020 T&amp;E Minutes
+</p>
+<p>(k) 11/5/2020 Smart Cities Minutes
+</p>
+<p>Letters from the Public
+</p>
+<p>Attachments
+</p>
+<p>2.4  Mayor and Council Excused Absence Requests.
+</p>
+<p>2.5  City Council Travel Reports.
+</p>
+<p>2.6  Report from the Council Liaison to the Retirement Boards.
+</p>
+<p>2.7 21-024 Amendment to the Self-Service Luggage Cart Agreement Between the City of 
+San José and Smarte Carte, Inc.
+</p>
+<p>Recommendation: Approve a Second Amendment to the Airport Self-Service Luggage 
+</p>
+<p>Cart Agreement between the City of San José and Smarte Carte, Inc., 
+</p>
+<p>to extend the term for three years, from August 1, 2021 through July 
+</p>
+<p>31, 2024, subject to the appropriation of funds.
+</p>
+<p>CEQA: Not a Project, File No. PP17-003, Agreements/Contracts (New 
+</p>
+<p>or Amended) resulting in no physical changes to the environment. 
+</p>
+<p>(Airport)
+</p>
+<p>Memorandum
+</p>
+<p>Agreement
+</p>
+<p>Attachments
+</p>
+<p>Page 8 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=52191806-9540-48d9-97c9-39e72df06b41.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=52191806-9540-48d9-97c9-39e72df06b41.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=7abc6d2c-f449-4ca6-a05c-79391a2fdeef.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=7abc6d2c-f449-4ca6-a05c-79391a2fdeef.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=ad8895b3-4033-425c-9afb-4ac2cc61a0a1.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=ad8895b3-4033-425c-9afb-4ac2cc61a0a1.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=d741e23d-abfa-4028-8cc8-da6dca5cbd30.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=d741e23d-abfa-4028-8cc8-da6dca5cbd30.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=f1499b1f-9408-4265-8b9e-965e333ed332.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=f1499b1f-9408-4265-8b9e-965e333ed332.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=f0cfb94d-0129-4837-8fe6-7a62e1d399dd.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=f0cfb94d-0129-4837-8fe6-7a62e1d399dd.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=7c6a76c6-6c67-4b56-acf7-c22c15af8496.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=7c6a76c6-6c67-4b56-acf7-c22c15af8496.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=613c5d3d-b62d-45fb-8ddd-90d24b844096.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=613c5d3d-b62d-45fb-8ddd-90d24b844096.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=91008b18-bbea-4cc7-be57-79c7b74f4f30.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=91008b18-bbea-4cc7-be57-79c7b74f4f30.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=768185a4-fc80-4d70-b16a-d883d192180c.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=768185a4-fc80-4d70-b16a-d883d192180c.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=70c07bef-074b-4772-a4c9-0f6efae464d4.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=70c07bef-074b-4772-a4c9-0f6efae464d4.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=666cec00-c03d-4a2e-b2a5-e6ae2fbb4a84.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=666cec00-c03d-4a2e-b2a5-e6ae2fbb4a84.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8158">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8158</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=e9ccc7aa-9b98-4ccf-b486-6cced2248c7c.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=e9ccc7aa-9b98-4ccf-b486-6cced2248c7c.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=fd767129-bf34-445b-906f-e4e6427b87ad.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=fd767129-bf34-445b-906f-e4e6427b87ad.pdf</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>2.8 21-025 Approval to Provide Financial Relief to Non-Aeronautical Concessionaires 
+and Rental Car Concessions at SJC.
+</p>
+<p>Recommendation: Adopt a resolution authorizing the City Manager to negotiate and 
+</p>
+<p>execute amendments to various Airport concession agreements to 
+</p>
+<p>provide additional financial relief to non-aeronautical concessionaires 
+</p>
+<p>and rental car concessions from January 1, 2021 through June 30, 
+</p>
+<p>2021, to address the continuing impacts of the COVID-19 pandemic. 
+</p>
+<p>Financial relief for Airport concessionaires could include:
+</p>
+<p>(a) Suspend Minimum Annual Guaranteed (MAG) rent payments and 
+</p>
+<p>charge only percentage rent from January 1, 2021-June 30, 2021.
+</p>
+<p>(b) Suspend, defer or modify the terms of the Annual Concession Fee 
+</p>
+<p>Reconciliation (True Up) as a result of any negotiated adjustments to 
+</p>
+<p>the MAG amount.  
+</p>
+<p>(c) Increase the percentage rent as consideration for any further MAG 
+</p>
+<p>suspension or negotiate flat fee rents.
+</p>
+<p>(d) Provide Airport concessionaires the ability to charge higher prices by 
+</p>
+<p>allowing a higher percentage markup over street prices to allow for an 
+</p>
+<p>increased pass through of costs.
+</p>
+<p>CEQA: Not a Project, File No. PP17-003, Agreements/Contracts (New 
+</p>
+<p>or Amended) resulting in no physical changes to the environment. 
+</p>
+<p>(Airport)
+</p>
+<p>MemorandumAttachments
+</p>
+<p>2.9 21-026 Resolution to Join California Cities Gaming Authority.
+</p>
+<p>Recommendation: (a) Adopt a resolution authorizing the City Manager to execute the 
+</p>
+<p>Amendment to the Joint Exercise of Powers Agreement to join the 
+</p>
+<p>California Cities Gaming Authority on behalf of the City of San José; 
+</p>
+<p>and
+</p>
+<p>(b) Approve up to $30,000 annually as the City’s share of the costs of 
+</p>
+<p>the California Cities Gaming Authority, subject to appropriation.
+</p>
+<p>CEQA: Not a Project, File No. PP17-003, Agreements/Contracts (New 
+</p>
+<p>or Amended) resulting in no physical changes to the environment. (City 
+</p>
+<p>Manager)
+</p>
+<p>[Deferred from 12/15/2020 - Item 2.10 (20-1625)]
+</p>
+<p>Memorandum
+</p>
+<p>Agreement
+</p>
+<p>Attachments
+</p>
+<p>Page 9 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8159">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8159</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=e7febfea-475e-47b3-ae01-3b578dbab3c2.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=e7febfea-475e-47b3-ae01-3b578dbab3c2.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8160">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8160</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=ba12a8ba-aee2-443e-9a1e-a2f3e07af23d.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=ba12a8ba-aee2-443e-9a1e-a2f3e07af23d.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=230372d8-8592-4bfa-9f63-e4d0c3f20bef.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=230372d8-8592-4bfa-9f63-e4d0c3f20bef.pdf</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>2.10 21-027 Commercial Solid Waste Processing.
+</p>
+<p>Recommendation: Authorize the City Manager to engage in preliminary discussions with 
+</p>
+<p>Allied Waste Services of North America, LLC, dba Republic Services 
+</p>
+<p>and Zero Waste Energy Development on the processing of all 
+</p>
+<p>commercial solid waste for the City of San José at an alternate materials 
+</p>
+<p>recovery facility.
+</p>
+<p>CEQA: Not a Project, File No. PP17-007, Preliminary direction to staff 
+</p>
+<p>and eventual action requires approval from decision-making body. 
+</p>
+<p>(Environmental Services)
+</p>
+<p>[Deferred from 12/15/2020 - Item 2.14 (20-1655)]
+</p>
+<p>MemorandumAttachments
+</p>
+<p>2.11 21-028 Actions Related to the Agreement with Overlay, LLC for Building 
+Performance Ordinance Solution.
+</p>
+<p>Recommendation: Adopt a resolution authorizing the City Manager to:
+</p>
+<p>(a) Execute an Agreement with Overlay, LLC (Denver, CO) to provide 
+</p>
+<p>a Building Performance Ordinance Solution, including related 
+</p>
+<p>professional services, software subscription, support, and maintenance, 
+</p>
+<p>for an initial two-year term beginning on or about January 6, 2021 
+</p>
+<p>through January 5, 2023 for a maximum compensation not to exceed 
+</p>
+<p>$114,919 for the initial term;
+</p>
+<p>(b) Negotiate and execute amendments and change orders as required 
+</p>
+<p>for any unanticipated changes such as enhancements, API development, 
+</p>
+<p>and custom report generation for a contingency amount not to exceed 
+</p>
+<p>$25,000 during the initial two-year term, subject to the appropriation of 
+</p>
+<p>funds; and
+</p>
+<p>(c) Exercise up to eight one-year options to extend the term through 
+</p>
+<p>January 5, 2031 for ongoing licensing, support, maintenance, and 
+</p>
+<p>related professional services, subject to the appropriation of funds.
+</p>
+<p>CEQA: Not a Project, File No. PP17-003, Agreements/Contracts (New 
+</p>
+<p>or Amended) resulting in no physical changes to the environment. 
+</p>
+<p>(Finance)
+</p>
+<p>Memorandum
+</p>
+<p>Agreement
+</p>
+<p>Attachments
+</p>
+<p>3.  STRATEGIC SUPPORT
+</p>
+<p>3.1  Report of the City Manager, David Sykes (Verbal Report)
+</p>
+<p>Page 10 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8161">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8161</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=1aeb978e-a3be-4660-8a00-6cdf847a4f58.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=1aeb978e-a3be-4660-8a00-6cdf847a4f58.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8162">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8162</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=a5b35cc6-8f93-44b0-8b4c-fd1dc52e0977.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=a5b35cc6-8f93-44b0-8b4c-fd1dc52e0977.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=8bf04c8e-202e-419a-a40a-e2ab4d7b58e3.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=8bf04c8e-202e-419a-a40a-e2ab4d7b58e3.pdf</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>3.2  Labor Negotiations Update.
+</p>
+<p>Accept Labor Negotiations Update.
+</p>
+<p>TO BE HEARD AT 9:30 A.M.
+</p>
+<p>3.3 21-030 Draft Framework Related to Nonprofit Transfers and the Proposed Real 
+Property Transfer Tax.
+</p>
+<p>Recommendation: Consideration and discussion of the draft framework related to certain 
+</p>
+<p>transfers of real property to nonprofits and the real property transfer tax 
+</p>
+<p>on the March 3, 2020 ballot.
+</p>
+<p>CEQA: Not a Project, File No. PP17-008, General Procedure and 
+</p>
+<p>Policy Making resulting in no changes to the physical environment. 
+</p>
+<p>(Housing/City Manager)
+</p>
+<p>[Deferred from 2/11/2020 - Item 3.4 (20-133); 3/17/2020 - Item 3.3 
+</p>
+<p>(20-257); 12/15/2020 - Item 3.3 (20-1633)]
+</p>
+<p>Memorandum
+</p>
+<p>Memorandum from Mayor, 1/4/2021
+</p>
+<p>Memorandum from Mayor, Peralez, Diep, Davis, 3/13/2020
+</p>
+<p>Memorandum from Khamis, 2/7/2020
+</p>
+<p>Memorandum, 1/28/2020
+</p>
+<p>Presentation
+</p>
+<p>Letters from the Public
+</p>
+<p>Attachments
+</p>
+<p>3.4 21-031 Independent Police Auditor Contract Authority.
+</p>
+<p>Recommendation: Approve an ordinance amending Sections 4.04.055, 4.04.080, and 
+</p>
+<p>4.04.085 and adding Section 4.04.045 to Chapter 4.04 of Title 4, and 
+</p>
+<p>amending Section 8.04.030 of Chapter 8.04 of Title 8 of the San José 
+</p>
+<p>Municipal Code to grant contract authority to the Independent Police 
+</p>
+<p>Auditor, with the same parameters as other Council appointees like the 
+</p>
+<p>City Clerk and City Auditor, as authorized under Charter Section 809 as 
+</p>
+<p>amended by Measure G.
+</p>
+<p>CEQA: Not a Project, File No. PP17-010, City Organizational and 
+</p>
+<p>Administrative Activities resulting in no changes to the physical 
+</p>
+<p>environment. (Independent Police Auditor)
+</p>
+<p>Memorandum
+</p>
+<p>Ordinance
+</p>
+<p>Attachments
+</p>
+<p>Page 11 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8164">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8164</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=b772aeb2-1ccc-4421-ba41-9f94378031e4.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=b772aeb2-1ccc-4421-ba41-9f94378031e4.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=ac9edd58-0f08-41dc-94aa-b75b907dd89b.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=ac9edd58-0f08-41dc-94aa-b75b907dd89b.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=266f0838-1def-4a1b-927a-22da3433403b.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=266f0838-1def-4a1b-927a-22da3433403b.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=c36cc8d1-c1fa-4471-b973-db7f80b9d57f.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=c36cc8d1-c1fa-4471-b973-db7f80b9d57f.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=e81146e2-32d7-495a-ab25-2f5f1115f728.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=e81146e2-32d7-495a-ab25-2f5f1115f728.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=f6643a9d-0d54-45f5-b39e-deccf4294a8e.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=f6643a9d-0d54-45f5-b39e-deccf4294a8e.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=cb953419-bf02-42e3-ac61-68ef52850f48.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=cb953419-bf02-42e3-ac61-68ef52850f48.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8165">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8165</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=09705c01-cb90-4ae6-b894-2aaf5b7f2906.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=09705c01-cb90-4ae6-b894-2aaf5b7f2906.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=582c8ad7-722b-4118-8e07-ac68c5059e3b.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=582c8ad7-722b-4118-8e07-ac68c5059e3b.pdf</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>3.5 21-032 San José 311 and Digital Strategy Roadmap.
+</p>
+<p>Recommendation: Accept the report on the implementation of San José 311 and the 
+</p>
+<p>refreshed Digital Strategy Roadmap, detailing SJ311 status, direction on 
+</p>
+<p>digital services, and approaches to the addition of new services via 
+</p>
+<p>online, mobile app, voice, virtual agent, and chat service channels.
+</p>
+<p>CEQA: Not a Project, File No. PP17-009, Staff Reports, Assessments, 
+</p>
+<p>Annual Reports, and Informational Memos that involve no approvals of 
+</p>
+<p>any City action. (Information Technology)
+</p>
+<p>[Deferred from 12/15/2020 - Item 3.7 (20-1639)]
+</p>
+<p>Memorandum
+</p>
+<p>Presentation
+</p>
+<p>Letters from the Public
+</p>
+<p>Attachments
+</p>
+<p>Page 12 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8166">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8166</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=4485d6db-ab88-4e70-b7ee-77b650176ae5.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=4485d6db-ab88-4e70-b7ee-77b650176ae5.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=2d2796dc-4960-4eb8-882d-2ceceb317832.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=2d2796dc-4960-4eb8-882d-2ceceb317832.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=82b092cc-03b7-4fe7-9566-302a425f3e57.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=82b092cc-03b7-4fe7-9566-302a425f3e57.pdf</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>3.6 21-033 Actions Related to the 8087 - Trail: Coyote Creek (Mabury Road to Empire 
+Street) Project.
+</p>
+<p>Recommendation: (a) Adopt a resolution authorizing the City Manager to:
+</p>
+<p> (1) Negotiate and execute amendments to the standard consultant 
+</p>
+<p>agreement with CH2M HILL, Inc. for the 8087 - Trail: Coyote Creek 
+</p>
+<p>(Mabury Road to Empire Street) project (“Project”) to do the following:
+</p>
+<p>  (i) Expand the scope of work to include design of a flood control 
+</p>
+<p>improvements, design, and implementation of mitigation plan 
+</p>
+<p>requirements, bid support, and construction management support;
+</p>
+<p>  (ii) Increase compensation by up to $1,344,380 from $1,355,620 to an 
+</p>
+<p>amount not to exceed $2,700,000 to pay for the expanded scope of 
+</p>
+<p>work; and 
+</p>
+<p>  (iii) Extend the term of the agreement from December 2021 to 
+</p>
+<p>December 2024. 
+</p>
+<p> (2) Negotiate and execute one or more Fund Transfer Agreements with 
+</p>
+<p>the Santa Clara Valley Water District (“Valley Water”) setting forth the 
+</p>
+<p>terms and conditions pursuant to which Valley Water will reimburse the 
+</p>
+<p>City for the additional design and construction costs associated with 
+</p>
+<p>including flood control improvements as part of the Project, which costs 
+</p>
+<p>are estimated to be approximately $3,600,000.
+</p>
+<p>(b) Adopt the following Appropriation Ordinance amendments in the 
+</p>
+<p>Subdivision Park Trust Fund:
+</p>
+<p> (1) Increase the TRAIL: Coyote Creek (Mabury Road to Empire 
+</p>
+<p>Street) appropriation by $1,500,000; and 
+</p>
+<p> (2) Decrease the TRAIL: Coyote Creek (Mabury Road to Empire 
+</p>
+<p>Street) reserve by $1,500,000.
+</p>
+<p>CEQA: Not a Project, File No. PP17-002, Consultant services for 
+</p>
+<p>design, study, inspection, or other professional services with no 
+</p>
+<p>commitment to future action. (Public Works/Parks, Recreation and 
+</p>
+<p>Neighborhood Services/City Manager)
+</p>
+<p>MemorandumAttachments
+</p>
+<p>Page 13 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8167">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8167</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=eb83ed26-60a9-4fca-92f1-b96de1f81d55.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=eb83ed26-60a9-4fca-92f1-b96de1f81d55.pdf</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>3.7 21-063 COVID-19 Paid Sick Leave Ordinance.
+</p>
+<p>Recommendation: (a) Adopt an urgency ordinance that:
+</p>
+<p> (1) Continues, retroactive from January 1, 2021 through June 30, 
+</p>
+<p>2021, the paid sick leave benefits that had been provided under the 
+</p>
+<p>expired federal Emergency Paid Sick Leave Act and the COVID-19 
+</p>
+<p>Paid Sick Leave Ordinance;
+</p>
+<p> (2) Adds a private right of action to enforce the benefits; 
+</p>
+<p> (3) Makes technical changes to reflect the health orders of the State 
+</p>
+<p>and the County of Santa Clara; and 
+</p>
+<p> (4) Sets forth the facts constituting the urgency.  
+</p>
+<p>PLEASE NOTE: APPROVAL OF THIS URGENCY ORDINANCE 
+</p>
+<p>REQUIRES 8 OR MORE AFFIRMATIVE VOTES (2/3) 
+</p>
+<p>(b)  Approve an ordinance that:
+</p>
+<p> (1) Continues, retroactive from January 1, 2021 through June 30, 
+</p>
+<p>2021, the paid sick leave benefits that had been provided under the 
+</p>
+<p>expired federal Emergency Paid Sick Leave Act and the COVID-19 
+</p>
+<p>Paid Sick Leave Ordinance;
+</p>
+<p> (2) Adds a private right of action to enforce the benefits; and 
+</p>
+<p> (3) Makes technical changes to reflect the health orders of the State 
+</p>
+<p>and the County of Santa Clara. 
+</p>
+<p>CEQA: Not a Project, File No. PP17-010, City Organizational and 
+</p>
+<p>Administrative Activities resulting in no changes to the physical 
+</p>
+<p>environment. (Public Works/City Manager)
+</p>
+<p>Memorandum
+</p>
+<p>Supplemental Memorandum, 1/4/2021
+</p>
+<p>Memorandum, 12/9/2020
+</p>
+<p>Memorandum from  Carrasco, Esparza, Arenas, 12/11/20
+</p>
+<p>(a) Ordinance
+</p>
+<p>(b) Ordinance
+</p>
+<p>Letter from Assemblymember Kalra
+</p>
+<p>Letters from the Public
+</p>
+<p>Attachments
+</p>
+<p>4.  PUBLIC SAFETY SERVICES
+</p>
+<p>5.  TRANSPORTATION &amp; AVIATION SERVICES
+</p>
+<p>Page 14 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8203">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8203</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=ee917829-895c-4201-9f44-e8142ce0331b.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=ee917829-895c-4201-9f44-e8142ce0331b.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=0e07eb53-031a-445c-a446-a9182ad96776.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=0e07eb53-031a-445c-a446-a9182ad96776.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=9659b6d9-c9b9-483a-a832-54cf8431c038.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=9659b6d9-c9b9-483a-a832-54cf8431c038.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=06b5d850-83ef-423a-b905-bb0284eac1b4.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=06b5d850-83ef-423a-b905-bb0284eac1b4.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=bd529d4b-a822-4f11-a424-ffe364e339c5.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=bd529d4b-a822-4f11-a424-ffe364e339c5.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=ae624b89-850a-490d-9627-bd83a8bc0883.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=ae624b89-850a-490d-9627-bd83a8bc0883.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=04ecbbc1-866e-4737-accd-8921d57c05c2.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=04ecbbc1-866e-4737-accd-8921d57c05c2.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=755ff9e1-f9ba-4ade-afa4-be4735439d5e.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=755ff9e1-f9ba-4ade-afa4-be4735439d5e.pdf</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>5.1 21-034 Approval to Increase the Rental Car Concessions Customer Facility Charge 
+at the Norman Y. Mineta San José International Airport and Delegate 
+</p>
+<p>Authority to the Director to Adjust the CFC Based on Current Budget and 
+</p>
+<p>Passenger Trends. 
+</p>
+<p>Recommendation: Adopt a resolution:
+</p>
+<p>(a) Increasing the Customer Facility Charge (“CFC”) from $7.50 to 
+</p>
+<p>$9.00 per day, up to a maximum of five days per rental car contract, 
+</p>
+<p>effective February 1, 2021, for customers renting vehicles from 
+</p>
+<p>On-Airport Rental Car Companies, for the purpose of paying the costs 
+</p>
+<p>of the financing, design and construction of the Consolidated Rental Car 
+</p>
+<p>Garage, and the costs of providing a common-use transportation system 
+</p>
+<p>to transport rental car customers between Terminal A and the 
+</p>
+<p>Consolidated Rental Car Garage, and repealing Resolution No. 76048, 
+</p>
+<p>effective February 1, 2021; and
+</p>
+<p>(b) Authorizing the Director of Aviation to adjust the CFC to 
+</p>
+<p>accommodate current budget and passenger trends, but in no case set 
+</p>
+<p>the rate above $9.00 per day, up to a maximum of five days per rental 
+</p>
+<p>car contract. 
+</p>
+<p>CEQA: Not a Project, File No. PP17-005, Adjustment to Fees, Rates &amp; 
+</p>
+<p>fares without changes to or expansion of services. (Airport)
+</p>
+<p>Memorandum
+</p>
+<p>Resolution
+</p>
+<p>Attachments
+</p>
+<p>6.  ENVIRONMENTAL &amp; UTILITY SERVICES
+</p>
+<p>Page 15 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8168">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8168</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=3b2005cd-3feb-4a2b-bcfa-ce7660ef214a.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=3b2005cd-3feb-4a2b-bcfa-ce7660ef214a.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=0b2a0b0d-b681-4b5c-9166-032468d54059.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=0b2a0b0d-b681-4b5c-9166-032468d54059.pdf</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>6.1 21-035 Authorization to Join California Community Power, A New Joint Powers 
+Authority.
+</p>
+<p>Recommendation: Adopt a resolution: 
+</p>
+<p>(a) Authorizing the City Manager or his/her designee to join San José 
+</p>
+<p>Clean Energy to the new Joint Powers Authority (California Community 
+</p>
+<p>Power or CC Power) and execute the California Community Power 
+</p>
+<p>Agency Joint Powers Agreement provided as Attachment 1 to the staff 
+</p>
+<p>memorandum; and
+</p>
+<p>(b) Authorizing the City of San José to pay a share of CC Power’s 
+</p>
+<p>annual costs in an amount not to exceed the contract authority of the 
+</p>
+<p>City Manager for the corresponding Fiscal Year, subject to the 
+</p>
+<p>appropriation of funds.
+</p>
+<p>CEQA: Not a Project, File No. PP17-003, Agreements/Contracts (New 
+</p>
+<p>or Amended) resulting in no physical changes to the environment. 
+</p>
+<p>(Community Energy)
+</p>
+<p>Memorandum
+</p>
+<p>Agreement
+</p>
+<p>Resolution
+</p>
+<p>Presentation
+</p>
+<p>Letters from the Public
+</p>
+<p>Attachments
+</p>
+<p>7.  NEIGHBORHOOD SERVICES
+</p>
+<p>7.1 21-036 Police Activities League Operating Model Contract.
+</p>
+<p>Recommendation: Approve guiding principles for an agreement between the City of San 
+</p>
+<p>José and San José Police Activities League to provide operations of the 
+</p>
+<p>J.R. Blackmore Police Activities League Stadium Complex, including 
+</p>
+<p>operating athletic programs, performing minor facility maintenance and 
+</p>
+<p>conducting fundraising activities.
+</p>
+<p>CEQA: Not a Project, File No. PP17-003, Agreements/Contracts (New 
+</p>
+<p>or Amended) resulting in no physical changes to the environment. 
+</p>
+<p>Council District 5. (Parks, Recreation and Neighborhood Services)
+</p>
+<p>[Deferred from 12/15/2020 - Item 7.1 (20-1640)]
+</p>
+<p>Memorandum
+</p>
+<p>Memorandum from Esparza, Carrasco, 12/18/2020
+</p>
+<p>Presentation
+</p>
+<p>Attachments
+</p>
+<p>8.  COMMUNITY &amp; ECONOMIC DEVELOPMENT
+</p>
+<p>Page 16 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8169">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8169</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=1c249b8b-1131-456e-b3ee-36ef82f4c3c6.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=1c249b8b-1131-456e-b3ee-36ef82f4c3c6.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=5219ce64-65a4-4b9c-816a-b3c6765383dc.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=5219ce64-65a4-4b9c-816a-b3c6765383dc.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=7651cd10-e926-4f77-bc40-d201c08e31cf.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=7651cd10-e926-4f77-bc40-d201c08e31cf.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=95d15c47-e5d3-484e-a02a-7d204798691d.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=95d15c47-e5d3-484e-a02a-7d204798691d.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=bd391dcf-64a7-47c9-9cc6-e45c033d5365.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=bd391dcf-64a7-47c9-9cc6-e45c033d5365.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8170">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8170</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=17d3c215-2339-4f62-85d0-124fba6676ee.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=17d3c215-2339-4f62-85d0-124fba6676ee.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=1c538474-3f7f-4bfb-a35e-75f08c1c3fde.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=1c538474-3f7f-4bfb-a35e-75f08c1c3fde.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=03e888fb-1171-4fbf-81ab-e4d896bd9f2f.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=03e888fb-1171-4fbf-81ab-e4d896bd9f2f.pdf</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>8.1 21-037 Conditional Summary Vacation, Declaration of Surplus, and Sale of a Portion 
+of North Almaden Boulevard. -DROP
+</p>
+<p>Recommendation: Adopt a resolution:
+</p>
+<p>(a) Approving the report of the Director of Public Works setting forth 
+</p>
+<p>the facts justifying the conditional summary vacation of an 
+</p>
+<p>approximately 1,381 square foot portion of North Almaden Boulevard 
+</p>
+<p>located northeast of the North Almaden Boulevard and East Santa Clara 
+</p>
+<p>Street intersection (Subject Portion);
+</p>
+<p>(b) Conditionally vacating the Subject Portion, which after the 
+</p>
+<p>satisfaction of the condition, will be superseded by relocation;
+</p>
+<p>(c) After satisfaction of the condition, directing the City Clerk to record 
+</p>
+<p>a certified copy of the resolution of vacation with the Office of the 
+</p>
+<p>Recorder, County of Santa Clara;
+</p>
+<p>(d) Declaring the Subject Portion “exempt surplus land” to the needs of 
+</p>
+<p>the City;
+</p>
+<p>(e) Authorizing the City Manager, or their designee, to negotiate and 
+</p>
+<p>execute a Purchase and Sale Agreement with adjacent property owner 
+</p>
+<p>Kenneth S. Tersini and the Kenneth S. Tersini Living Trust for the sale 
+</p>
+<p>of approximately 674 square feet of conditionally vacated City-owned 
+</p>
+<p>“excess surplus property” on a portion of Almaden Boulevard, between 
+</p>
+<p>N. Almaden Boulevard and W. Santa Clara Street, in the amount of 
+</p>
+<p>$218,477 in accordance with Cal Gov. §54221(f)(1)(B) and San José 
+</p>
+<p>Municipal Code §4.20.070(A);
+</p>
+<p>(f) Authorizing the City Manager, or their designee, to negotiate and 
+</p>
+<p>execute a Purchase and Sale Agreement with adjacent property owner 
+</p>
+<p>Bit Holdings Sixty-Eight, Inc. for the sale of approximately 707 square 
+</p>
+<p>feet of conditionally vacated City-owned “excess surplus property” on a 
+</p>
+<p>portion of Almaden Boulevard, between N. Almaden Boulevard and W. 
+</p>
+<p>Santa Clara Street, in the amount of $1 in accordance with to Cal Gov. 
+</p>
+<p>§54221(f)(1)(B) and San José Municipal Code §4.20.070; and
+</p>
+<p>(g) Authorizing the City Manager, or their designee, to negotiate and 
+</p>
+<p>execute all other documents necessary to complete the transactions.
+</p>
+<p>CEQA: Determination of Consistency to the Supplemental 
+</p>
+<p>Environmental Impact Report for the Almaden Corner Hotel Project, 
+</p>
+<p>File No. H18-038. Council District 3. (Economic Development/Public 
+</p>
+<p>Works)
+</p>
+<p>[Deferred from 12/15/2020 - Item 8.2 (20-1643)]
+</p>
+<p>DROP
+</p>
+<p>9.  REDEVELOPMENT – SUCCESSOR AGENCY
+</p>
+<p>Page 17 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8171">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8171</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>10.  LAND USE
+</p>
+<p>Notice to the public:  There will be no separate discussion of Land Use Consent Calendar (Item 
+</p>
+<p>10.1) as they are considered to be routine by the City Council and will be adopted by one motion.  
+</p>
+<p>If a member of the City Council, staff, or public requests discussion on a particular item, that item 
+</p>
+<p>will be removed from the Land Use Consent Calendar (Item 10.1) and considered separately.
+</p>
+<p>10.1  Land Use on Consent Calendar
+</p>
+<p>(a) 21-038 ST20-003 - Street Renaming of Public Streets Along Portions of Bird Avenue, 
+South Montgomery Street, South Autumn Street, and North Autumn Street to 
+</p>
+<p>Barack Obama Boulevard. - TO BE HEARD IMMEDIATELY AFTER 
+</p>
+<p>CONSENT 
+</p>
+<p>Recommendation: Adopt a resolution approving the renaming of portions of Bird Avenue, 
+</p>
+<p>South Montgomery Street, South Autumn Street, and North Autumn 
+</p>
+<p>Street, extending approximately 4,300 feet between Interstate 280 in the 
+</p>
+<p>south and West St. John Street in the north, as Barack Obama 
+</p>
+<p>Boulevard. 
+</p>
+<p>CEQA: Not a Project pursuant to CEQA Guidelines Section 15061(b)
+</p>
+<p>(3). Council Districts 3 and 6. (Planning, Building and Code 
+</p>
+<p>Enforcement)
+</p>
+<p>TO BE HEARD IMMEDIATELY AFTER CONSENT
+</p>
+<p>Memorandum
+</p>
+<p>Memorandum from Mayor and Jones, 12/23/2020
+</p>
+<p>Resolution
+</p>
+<p>Letters from the Public
+</p>
+<p>Attachments
+</p>
+<p>END OF CONSENT CALENDAR
+</p>
+<p>10  Land Use - Regular Agenda
+</p>
+<p>•  Open Forum
+</p>
+<p>Members of the Public are invited to speak on any item that does not appear on today’s Agenda 
+</p>
+<p>and that is within the subject matter jurisdiction of the City Council.
+</p>
+<p>•  Adjournment
+</p>
+<p>Page 18 City of San José Printed on 1/5/2021</p>
+<p />
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8172">http://sanjose.legistar.com/gateway.aspx?m=l&amp;id=/matter.aspx?key=8172</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=bd396071-6476-40b2-9f1b-d2463bbdebe1.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=bd396071-6476-40b2-9f1b-d2463bbdebe1.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=3a105b14-f0ae-49f7-8bd7-02f77d72d214.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=3a105b14-f0ae-49f7-8bd7-02f77d72d214.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=2cf35b09-543c-438f-b415-f0117621ca4a.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=2cf35b09-543c-438f-b415-f0117621ca4a.pdf</a></div>
+<div class="annotation"><a href="http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=52471e38-37b9-4a40-aa7c-a7b8215e9c04.pdf">http://sanjose.legistar.com/gateway.aspx?M=F&amp;ID=52471e38-37b9-4a40-aa7c-a7b8215e9c04.pdf</a></div>
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>CITY OF SAN JOSE CODE OF CONDUCT FOR PUBLIC MEETINGS IN
+</p>
+<p>THE COUNCIL CHAMBERS AND COMMITTEE ROOMS
+</p>
+<p>The Code of Conduct is intended to promote open meetings that welcome debate of public policy issues being 
+</p>
+<p>discussed by the City Council, their Committees, and City Boards and Commissions in an atmosphere of 
+</p>
+<p>fairness, courtesy, and respect for differing points of view. 
+</p>
+<p>1. Public Meeting Decorum: 
+</p>
+<p>a) Persons in the audience will refrain from behavior which will disrupt the public meeting.  
+</p>
+<p>    This will include making loud noises, clapping, shouting, booing, hissing or engaging in 
+</p>
+<p>    any other activity in a manner that disturbs, disrupts or impedes the orderly conduct of the   
+</p>
+<p>    meeting. 
+</p>
+<p>b) Persons in the audience will refrain from creating, provoking or participating in any type   
+</p>
+<p>    of disturbance involving unwelcome physical contact. 
+</p>
+<p>c) Persons in the audience will refrain from using cellular phones and/or pagers while the 
+</p>
+<p>    meeting is in session. 
+</p>
+<p>d) Appropriate attire, including shoes and shirts are required in the Council Chambers and 
+</p>
+<p>    Committee Rooms at all times. 
+</p>
+<p>e) Persons in the audience will not place their feet on the seats in front of them. 
+</p>
+<p>f) No food, drink (other than bottled water with a cap), or chewing gum will be allowed in the 
+</p>
+<p>   Council Chambers and Committee Rooms, except as otherwise pre-approved by City staff. 
+</p>
+<p>g) All persons entering the Council Chambers and Committee Rooms, including their bags,   
+</p>
+<p>    purses, briefcases and similar belongings, may be subject to search for weapons and other 
+</p>
+<p>   dangerous materials. 
+</p>
+<p>2. Signs, Objects or Symbolic Material: 
+</p>
+<p>a) Objects and symbolic materials, such as signs or banners, will be allowed in the Council   
+</p>
+<p>    Chambers and Committee Rooms, with the following restrictions: § No objects will be   
+</p>
+<p>    larger than 2 feet by 3 feet.
+</p>
+<p>        -No sticks, posts, poles or other such items will be attached to the signs or other 
+</p>
+<p>         symbolic materials. 
+</p>
+<p>        -The items cannot create a building maintenance problem or a fire or safety hazard. 
+</p>
+<p>b) Persons with objects and symbolic materials such as signs must remain seated when   
+</p>
+<p>    displaying them and must not raise the items above shoulder level, obstruct the view or 
+</p>
+<p>    passage of other attendees, or otherwise disturb the business of the meeting. 
+</p>
+<p>c) Objects that are deemed a threat to persons at the meeting or the facility infrastructure are 
+</p>
+<p>    not allowed. City staff is authorized to remove items and/or individuals from the Council   
+</p>
+<p>    Chambers and Committee Rooms if a threat exists or is perceived to exist. Prohibited items 
+</p>
+<p>    include, but are not limited to: firearms (including replicas and antiques), toy guns, 
+</p>
+<p>    explosive material, and ammunition; knives and other edged weapons; illegal drugs and 
+</p>
+<p>    drug paraphernalia; laser pointers, scissors, razors, scalpels, box cutting knives, and other 
+</p>
+<p>    cutting tools; letter openers, corkscrews, can openers with points, knitting needles, and   
+</p>
+<p>    hooks; hairspray, pepper spray, and aerosol containers; tools; glass containers; and large 
+</p>
+<p>    backpacks and suitcases that contain items unrelated to the meeting. 
+</p>
+<p>Page 19 City of San José Printed on 1/5/2021</p>
+<p />
+</div>
+<div class="page"><p />
+<p>January 5, 2021City Council Agenda
+</p>
+<p>CITY OF SAN JOSE CODE OF CONDUCT FOR PUBLIC MEETINGS IN
+</p>
+<p>THE COUNCIL CHAMBERS AND COMMITTEE ROOMS (CONT’D.)
+</p>
+<p>3. Addressing the Council, Committee, Board or Commission: 
+</p>
+<p>a) Persons wishing to speak on an agenda item or during open forum are requested to 
+</p>
+<p>    complete a speaker card and submit the card to the City Clerk or other administrative staff 
+</p>
+<p>    at the meeting. 
+</p>
+<p>b) Meeting attendees are usually given two (2) minutes to speak on any discussion item 
+</p>
+<p>    and/or during open forum; the time limit is in the discretion of the Chair of the meeting 
+</p>
+<p>    and may be limited when appropriate. Applicants and appellants in land use matters are 
+</p>
+<p>    usually given more time to speak. Speakers using a translator will be given twice the time allotted  
+</p>
+<p>    to ensure non-English speakers receive the same opportunity to directly address the Council, 
+</p>
+<p>    Committee, Board or Commission. 
+</p>
+<p>c) Speakers should discuss topics related to City business on the agenda.
+</p>
+<p>d) Speakers’ comments should be addressed to the full body. Requests to engage the Mayor, 
+</p>
+<p>    Council Members, Board Members, Commissioners or Staff in conversation will not be 
+</p>
+<p>    honored. Abusive language is inappropriate. 
+</p>
+<p>e) Speakers will not bring to the podium any items other than a prepared written statement, 
+</p>
+<p>    writing materials, or objects that have been inspected by security staff. 
+</p>
+<p>f) If an individual wishes to submit written information, he or she may give it to the City 
+</p>
+<p>   Clerk or other administrative staff at the meeting. 
+</p>
+<p>g) Speakers and any other members of the public will not approach the dais at any time without prior  
+</p>
+<p>    consent from the Chair of the meeting. 
+</p>
+<p>Failure to comply with this Code of Conduct which will disturb, disrupt or impede the orderly conduct of the 
+</p>
+<p>meeting may result in removal from the meeting and/or possible arrest.
+</p>
+<p>Page 20 City of San José Printed on 1/5/2021</p>
+<p />
+</div>
+</body></html>

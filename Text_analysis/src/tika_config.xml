@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+  <parsers>
+    <!-- Default Parser for most things, except for 2 mime types, and never
+         use the Executable Parser -->
+    <parser class="org.apache.tika.parser.DefaultParser">
+      <mime-exclude>image/jpeg</mime-exclude>
+      <mime-exclude>application/pdf</mime-exclude>
+      <parser-exclude class="org.apache.tika.parser.executable.ExecutableParser"/>
+      <!-- property name="sortByPosition" value="True" -->
+    </parser>
+    <parser class="org.apache.tika.parser.EmptyParser">
+      <mime>application/pdf</mime>
+      <!-- here? -->
+      <property name="sortByPosition" value="True"/>  # this statement is for preserving the order
+    </parser>
+  </parsers>
+</properties>

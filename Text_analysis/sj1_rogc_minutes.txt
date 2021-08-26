@@ -1,0 +1,340 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2020-12-22T00:09:32Z" />
+<meta name="pdf:PDFVersion" content="1.5" />
+<meta name="xmp:CreatorTool" content="Microsoft® Word 2016" />
+<meta name="pdf:hasXFA" content="false" />
+<meta name="access_permission:modify_annotations" content="true" />
+<meta name="access_permission:can_print_degraded" content="true" />
+<meta name="dc:creator" content="Garcia, Yasmin" />
+<meta name="language" content="en-US" />
+<meta name="dcterms:created" content="2020-10-21T20:41:55Z" />
+<meta name="Last-Modified" content="2020-12-22T00:09:32Z" />
+<meta name="dcterms:modified" content="2020-12-22T00:09:32Z" />
+<meta name="dc:format" content="application/pdf; version=1.5" />
+<meta name="xmpMM:DocumentID" content="uuid:F157D6C6-A075-4690-A8CC-C66111F6B730" />
+<meta name="Last-Save-Date" content="2020-12-22T00:09:32Z" />
+<meta name="pdf:docinfo:creator_tool" content="Microsoft® Word 2016" />
+<meta name="access_permission:fill_in_form" content="true" />
+<meta name="pdf:docinfo:modified" content="2020-12-22T00:09:32Z" />
+<meta name="meta:save-date" content="2020-12-22T00:09:32Z" />
+<meta name="pdf:encrypted" content="false" />
+<meta name="modified" content="2020-12-22T00:09:32Z" />
+<meta name="pdf:hasMarkedContent" content="true" />
+<meta name="Content-Type" content="application/pdf" />
+<meta name="pdf:docinfo:creator" content="Garcia, Yasmin" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.pdf.PDFParser" />
+<meta name="creator" content="Garcia, Yasmin" />
+<meta name="dc:language" content="en-US" />
+<meta name="meta:author" content="Garcia, Yasmin" />
+<meta name="meta:creation-date" content="2020-10-21T20:41:55Z" />
+<meta name="created" content="2020-10-21T20:41:55Z" />
+<meta name="access_permission:extract_for_accessibility" content="true" />
+<meta name="access_permission:assemble_document" content="true" />
+<meta name="xmpTPg:NPages" content="4" />
+<meta name="Creation-Date" content="2020-10-21T20:41:55Z" />
+<meta name="resourceName" content="b'(a) 9232020 ROGC Minutes.pdf'" />
+<meta name="pdf:hasXMP" content="true" />
+<meta name="access_permission:extract_content" content="true" />
+<meta name="access_permission:can_print" content="true" />
+<meta name="Author" content="Garcia, Yasmin" />
+<meta name="producer" content="Microsoft® Word 2016" />
+<meta name="access_permission:can_modify" content="true" />
+<meta name="pdf:docinfo:producer" content="Microsoft® Word 2016" />
+<meta name="pdf:docinfo:created" content="2020-10-21T20:41:55Z" />
+<title></title>
+</head>
+<body><div class="page"><p />
+<p>                     -1-                                               September 23, 2020 
+</p>
+<p> 
+ 
+</p>
+<p>MINUTES OF THE 
+</p>
+<p>JOINT MEETING OF THE RULES AND OPEN GOVERNMENT COMMITTEE AND 
+</p>
+<p>COMMITTEE OF THE WHOLE 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>SAN JOSE, CALIFORNIA    WEDNESDAY, SEPTEMBER 23, 2020 
+</p>
+<p> 
+</p>
+<p> Consistent with the California Governor’s Executive Order No. N-29-20, Resolution No. 79450 
+</p>
+<p>from the City of San José and the Santa Clara County Health Officer’s March 16, 2020 Shelter 
+</p>
+<p>in Place Order, the City Council meeting was not physically open to the public. Public comments 
+</p>
+<p>were accepted via eComment, email, by phone/Webinar or online.  
+</p>
+<p> 
+</p>
+<p>The Council meeting was teleconferenced from remote locations and convened at 1:30 p.m.  
+</p>
+<p> 
+</p>
+<p>Present: Councilmembers    -     Liccardo, Davis, Jones, Arenas, Khamis. 
+</p>
+<p> 
+</p>
+<p>Absent: Councilmembers    -     All Present. 
+</p>
+<p> 
+</p>
+<p>Staff: Office of the City Manager, Chief of Staff, Lee Wilcox; City Attorney, Nora Frimann; City 
+</p>
+<p>Clerk, Toni Taber; City Manager’s Office, Gloria Schmanek; Henry Smith, Mayor’s Office; and 
+</p>
+<p>Deputy City Clerk Ruth Krantz.  
+</p>
+<p>  
+</p>
+<p>A. City Council (City Clerk)  
+</p>
+<p> 
+</p>
+<p>1.  Review September 29, 2020 Final Agenda  
+</p>
+<p>a) Add new items to Final Agenda 
+b) Assign “Time Certain” to Agenda Items (if needed) 
+c) Review of Notice Waiver Requests for Agenda Items or Documents (if needed) 
+ 
+</p>
+<p>Public Comments: (1) Blair Beekman spoke on challenges in policing. (2) Martha O’Connell 
+</p>
+<p>asked for assurance that under-represented voices are heard, and controlling length and format of 
+</p>
+<p>meetings. 
+</p>
+<p> 
+</p>
+<p>Motion: Councilmember Johnny Khamis moved to limit Council discussion to 15 minutes per 
+</p>
+<p>item per Councilmember, with a total of 30 minutes for Items 4.1 and 4.2.  Vice Mayor Chappie 
+</p>
+<p>Jones seconded the motion. 
+</p>
+<p>  </p>
+<p />
+</div>
+<div class="page"><p />
+<p>                     -2-                                               September 23, 2020 
+</p>
+<p>1. Review September 29, 2020 Final Agenda (Cont’d.) 
+ 
+</p>
+<p>Action:  On a call for the question, the motion carried unanimously, the Committee accepted the 
+</p>
+<p>September 29, 2020 Final Agenda, with inclusion of Add Sheet items and Section 4 (Police) 
+</p>
+<p>items not heard before 4 p.m., and 10.1 and 10.2 to be heard ahead of Policing issues. 
+</p>
+<p>Councilmember comments to be limited to 15 minutes with a total of 30 minutes for Items 4.1 
+</p>
+<p>and 4.2.  (5-0.) 
+</p>
+<p> 
+</p>
+<p>2.  Review October 6, 2020 Draft Agenda  
+</p>
+<p>a) Add new items to Final Agenda  
+</p>
+<p>b) Assign “Time Certain” to Agenda Items (if needed)  
+</p>
+<p>c) Review of Notice Waiver Requests for Agenda Items or Documents (if needed)  
+ 
+</p>
+<p>Public Comments: Blair Beekman spoke on the bike plan and importance of addressing the 
+</p>
+<p>issue of bullying. 
+</p>
+<p> 
+</p>
+<p>Action:  Upon motion by Vice Mayor Chappie Jones, seconded by Councilmember Dev 
+</p>
+<p>Davis, and carried unanimously, the Committee accepted the October 6, 2020 Draft Agenda.  
+</p>
+<p>(5-0.) 
+</p>
+<p> 
+</p>
+<p>B. Review of Upcoming Meeting Agenda(s)  
+ 
+</p>
+<p> None provided.  
+</p>
+<p> 
+</p>
+<p>C. Legislative Update  
+</p>
+<p>1. State  
+</p>
+<p>2. Federal  
+</p>
+<p> 
+</p>
+<p>There were none presented.  
+</p>
+<p> 
+</p>
+<p>D. Meeting Schedules  
+</p>
+<p> 
+</p>
+<p>1. Joint Meeting Between City Council, the Federated City Employees’ Retirement 
+System and the Police &amp; Fire Department Retirement Plan. (Employee Relations) 
+</p>
+<p> 
+</p>
+<p>Public Comments: Blair Beekman spoke on the Police union contract. 
+</p>
+<p> 
+</p>
+<p>Vice Mayor Chappie Jones added a potential discussion topic as indicated below in “Action”. 
+</p>
+<p> 
+</p>
+<p>Action: Upon motion by Councilmember Dev Davis, seconded by Vice Mayor Chappie Jones, 
+</p>
+<p>and carried unanimously, a Joint Meeting of the City Council, the Federated City Employees’ 
+</p>
+<p>Retirement System and the Police &amp; Fire Department Retirement Plan was set for Friday, 
+</p>
+<p>October 16, 2020, with City Councilmembers to provide their input on any potential discussion 
+</p>
+<p>topics for the Joint Meeting.  This would include a potential item from Vice Mayor Chappie 
+</p>
+<p>Jones’ to include diversity in the consultants being used. (4-0-1. Absent: Liccardo.) 
+</p>
+<p>  </p>
+<p />
+</div>
+<div class="page"><p />
+<p>                     -3-                                               September 23, 2020 
+</p>
+<p>E. The Public Record – none provided. 
+</p>
+<p> 
+</p>
+<p>F. Boards, Commissions and Committees 
+</p>
+<p> 
+</p>
+<p>     None provided. 
+</p>
+<p> 
+</p>
+<p>G. Rules Committee Reviews, Recommendations and Approvals 
+</p>
+<p> 
+</p>
+<p>1. Consent Calendar 
+</p>
+<p>(a) Approval of the 2020 Coastal Clean Up Month Sponsored by Mayor as 
+</p>
+<p>a City Council Sponsored Special Event to Expend City Funds and 
+</p>
+<p>Accept Donations of Materials and Services for the Event. (Mayor) 
+</p>
+<p> 
+</p>
+<p>Action: Upon motion by Councilmember Johnny Khamis, seconded by Councilmember Dev 
+</p>
+<p>Davis and carried unanimously, the Coastal Cleanup Month activities scheduled during the 
+</p>
+<p>month of September 2020 as a City Council sponsored Special Event and approve the 
+</p>
+<p>expenditure of funds; approve and accept donations from various individuals, businesses or 
+</p>
+<p>community groups to support the event.  This item was approved for placement on the 
+</p>
+<p>September 29, 2020 Council Agenda for action. 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>H. Review of Additions to Council Committee Agendas/Workplans  
+</p>
+<p> 
+</p>
+<p>1. Community and Economic Development Committee 
+</p>
+<p> 
+</p>
+<p>2. Neighborhood Services and Education Committee  
+</p>
+<p> 
+</p>
+<p>3.Transportation and Environment Committee 
+</p>
+<p> 
+</p>
+<p>4. Public Safety, Finance and Strategic Support Committee  
+</p>
+<p> 
+</p>
+<p>5. Joint Meeting of the Rules &amp; Open Government Committee and Committee of the   
+</p>
+<p>    Whole  
+</p>
+<p> 
+</p>
+<p>6. Smart Cities and Service Improvement Committee 
+</p>
+<p> 
+</p>
+<p>None provided.  
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>I. Open Government  
+</p>
+<p> 
+</p>
+<p>None provided. 
+</p>
+<p> 
+</p>
+<p>  </p>
+<p />
+</div>
+<div class="page"><p />
+<p>   -4-                September 23, 2020 
+</p>
+<p>J. OPEN FORUM 
+</p>
+<p>1. Blair: spoke on policing practices based on ideas of peace; he spoke on COVID and
+</p>
+<p>suggested we learn from cities in the East Bay.
+</p>
+<p>2. Mollie McLeod addressed ADA concerns and emergency response preparedness.
+</p>
+<p>3. Martha O’Connell thanked City Clerk for her assistance, and offered strategies to shorten
+</p>
+<p>the length of council meetings.
+</p>
+<p>G. Adjournment 
+</p>
+<p>Mayor Sam Liccardo adjourned the Committee meeting at 3:33 p.m. 
+</p>
+<p>_______________________________________________ 
+</p>
+<p> Mayor Sam Liccardo, Chair  
+</p>
+<p> Rules and Open Government Committee 
+</p>
+<p>SL/yg:rulesmin_9-23-20 
+</p>
+<p>Approved via email</p>
+<p />
+</div>
+</body></html>
