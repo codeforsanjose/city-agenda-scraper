@@ -64,3 +64,4 @@ Legistar_scraper/.vscode/.vscode/launch.json
 Legistar_scraper/__init__.py
 Legistar_scraper/.vscode/launch.json
 Legistar_scraper/client_secrets.json
+venv
