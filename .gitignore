@@ -64,5 +64,6 @@ Legistar_scraper/.vscode/.vscode/launch.json
 Legistar_scraper/__init__.py
 Legistar_scraper/.vscode/launch.json
 Legistar_scraper/client_secrets.json
+venv
 Legistar_scraper/geckodriver.log
 Legistar_scraper/__pycache__/Gdrive_upload_methods.cpython-39.pyc
