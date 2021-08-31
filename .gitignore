@@ -60,7 +60,11 @@ build-iPhoneSimulator/
 
 # Used by RuboCop. Remote config files pulled in from inherit_from directive.
 # .rubocop-https?--*
+<<<<<<< Updated upstream
+=======
 Legistar_scraper/.vscode/.vscode/launch.json
 Legistar_scraper/__init__.py
 Legistar_scraper/.vscode/launch.json
 Legistar_scraper/client_secrets.json
+Legistar_scraper/geckodriver.log
+>>>>>>> Stashed changes
