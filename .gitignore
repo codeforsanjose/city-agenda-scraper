@@ -67,3 +67,4 @@ Legistar_scraper/client_secrets.json
 venv
 Legistar_scraper/geckodriver.log
 Legistar_scraper/__pycache__/Gdrive_upload_methods.cpython-39.pyc
+Text_analysis/src/__pycache__
