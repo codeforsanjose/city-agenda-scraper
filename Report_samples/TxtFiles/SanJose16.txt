@@ -1,0 +1,944 @@
+NVF:VMT:JMD 
+8/3/2021 
+RESOLUTION NO. ______ 
+ 
+A  RESOLUTION  OF  THE  COUNCIL  OF  THE  CITY  OF 
+SAN JOSE  CERTIFYING  THE  WEST  SAN  CARLOS 
+STREET  MIXED-USE  PROJECT  ENVIRONMENTAL 
+IMPACT  REPORT  AND  MAKING  CERTAIN  FINDINGS 
+CONCERNING  SIGNIFICANT  IMPACTS,  MITIGATION 
+MEASURES,  AND  ALTERNATIVES,  AND  ADOPTING  A 
+STATEMENT OF OVERRIDING CONSIDERATIONS AND A 
+RELATED MITIGATION MONITORING AND REPORTING 
+PROGRAM,  ALL  IN  ACCORDANCE  WITH  THE 
+CALIFORNIA  ENVIRONMENTAL  QUALITY  ACT,  AS 
+AMENDED 
+ 
+ 
+WHEREAS, the proposed West San Carlos Street Mixed-Use Project (File No.  SP20-
+004) includes a Special Use Permit to allow  the demolition of the existing structures on-
+site  including  eight  residential  buildings  that  are  candidate  City  Landmarks,  three 
+commercial  buildings totaling  approximately  7,600  square  feet,  a  billboard,  and  the 
+removal  of  fourteen  on-site  trees  and  the  construction  of  two  seven-story 
+residential/commercial mixed-use buildings consisting of 173 residential units and 17,836 
+square feet of commercial retail space and a 42 percent parking reduction located at 
+1530-1544 West San Carlos Street on an approximately 1.32-gross acre site in the City 
+of San José, California (collectively referred to herein as the “Project”; and  
+ 
+WHEREAS, approval of the Special Use Permit would constitute a Project under the 
+provisions of the California Environmental Quality Act of 1970, together with State and 
+local implementation, guidelines, and policies promulgated thereunder, all as amended 
+to date (collectively “CEQA”); and  
+ 
+WHEREAS,  the  City  is  the  lead  agency  for  the  Project  and  has  prepared  a  Final 
+Environmental Impact Report for the Project pursuant to and in accordance with CEQA, 
+which the Final Environmental Impact Report is comprised of the Draft Environmental 
+ 
+  1 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+Impact Report for the project (the “Draft EIR”), together with the First Amendment to the 
+Draft EIR (collectively, all of said documents are referred to herein as the “FEIR”); and   
+ 
+WHEREAS, on July 14, 2021, the Planning Commission of the City of San José reviewed 
+the FEIR prepared for the West San Carlos Street Mixed-Us Project and recommended 
+to the City Council that it find the environmental clearance for the proposed Project was 
+completed in accordance with the requirements of CEQA and further recommended the 
+City Council adopted this Resolution; and  
+ 
+WHEREAS, CEQA requires that, in connection with approval of a project for which an 
+environmental impact report has been prepared that identifies one or more significant 
+environmental effects of the project, the decision-making body of a public agency make 
+certain findings regarding those effects and adopt avoidance measures to minimize 
+impacts consistent with City policies and requirements and a statement of overriding 
+considerations for any impact that may not be reduced to a less than significant level; 
+ 
+NOW,  THEREFORE,  BE  IT  RESOLVED  BY  THE  COUNCIL  OF  THE  CITY  OF 
+SAN JOSE: 
+1.  That the above recitals are true and correct; and 
+2.  That the City Council does hereby find and certify that the FEIR has been prepared 
+and completed in compliance with CEQA; and 
+3.  The  City  Council  was  presented  with,  and  has  independently  reviewed  and 
+analyzed the FEIR and other information in the record and has considered the 
+information contained therein, including the written and oral comments received at 
+the public hearings on the FEIR and the Project, prior to acting upon or approving 
+the Project, and has found that the FEIR represents the independent judgement of 
+the City of San José (“City”) as lead agency for the Project, and designated the 
+Director of Planning, Building, and Code Enforcement at the Director’s Office at 
+200 East Santa Clara Street, 3rd Floor Tower, San José, California 95113, as the 
+custodian of documents and record of proceedings on which the decision of the 
+City is based; and 
+ 
+  2 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+4.  That the City Council does hereby find and recognize that the FEIR contains 
+additions, clarifications, modifications, and other information in its response to 
+comments on the Draft EIR or obtained by the City after the Draft EIR was issued 
+and circulated for public review and does hereby find that such changes and 
+additional  information  are  not  significant  new  information  as  that  phrase  is 
+described under CEQA because such changes and additional information do not 
+indicate that any of the following would result from approval and implementation of 
+the Project: (i) any new significant environmental impact or substantially more 
+severe environmental impact not already disclosed and evaluated in the Draft EIR, 
+(ii) any feasible mitigation measure considerably different from those analyzed in 
+the Draft EIR that would lessen a significant environmental impact of the Project 
+has been proposed and would not be implemented, or (iii) any feasible alternative 
+considerably different from those analyzed in the Draft EIR that would lessen a 
+significant environmental impact of the Project has been proposed and would not 
+be implemented; and 
+5.  That the City Council does hereby find and determine that recirculation of the FEIR 
+for further public review and comment is not warranted or required under the 
+provisions of CEQA; and 
+6.  That the City Council does hereby make the following findings with respect to the 
+significant effects of the environment of the Project, as identified in the FEIR with 
+the understanding that all of the information in this Resolution is intended as a 
+summary  of  the  full  administrative  record  supporting  the  FEIR;  which  full 
+administrative record should be consulted for the full details supporting these 
+findings.  
+ 
+WEST SAN CARLOS MIXED-USE PROJECT 
+SIGNIFICANT ENVIRONMENTAL IMPACTS 
+ 
+Air Quality 
+Impact:  AQ-1.1:  Construction activities associated with the proposed project would 
+expose the maximally exposed individuals near the project site to cancer 
+risk and PM10 exhaust in excess of BAAQMD single-source thresholds of 
+greater than 10.0 per million and greater than 0.3 μg/m3, respectively (108.6 
+per million increased cancer lifetime risk and 0.87 μg/m3, respectively) 
+without mitigation. 
+ 
+Impact:   AQ(C)-1:  The maximum cancer risk and annual PM  concentration 
+10
+would exceed the BAAQMD threshold for cumulative sources for cancer 
+ 
+  3 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+lifetime risk (more than 100 per million) and PM  exhaust (more than 0.8) 
+10
+without mitigation 
+ 
+Mitigation:  MM AQ-1.1:   Prior  to  the  issuance of  any  demolition,  grading,  and/or 
+buildings permits (whichever occurs first), the project applicant shall submit 
+a construction operations plan that includes specifications of the equipment 
+to be used during construction to the Director of Planning, Building and 
+Code  Enforcement  or  the  Director’s  designee.  The  plan  shall  be 
+accompanied by a letter signed by an air quality specialist, verifying that the 
+equipment included in the plan meets a fleet-wide average of 93 percent 
+reduction in diesel particulate matter (DPM). Feasible methods to achieve 
+this reduction would include the following: 
+1.  All  diesel-powered  off-road  equipment,  larger  than  25  horsepower, 
+operating on the site for more than two days continuously shall, at a 
+minimum, meet U.S. EPA particulate matter emissions standards for 
+Tier 4 interim engines or equivalent. 
+2.  Provide electric power to avoid use of diesel-powered generator sets 
+and other portable equipment. 
+3.  Alternatively, equipment that meets U.S. EPA Tier 3 engines standards 
+for  particulate  matter  that  include  CARB-certified  Level  3  Diesel 
+Particulate Filters or use of equipment that is electrically powered or 
+uses non-diesel fuels would meet this requirement. 
+ 
+Finding:  With implementation of Mitigation Measure AQ-1.1, PM  and cancer risk 
+10
+exposure to nearby sensitive receptors associated with the construction of 
+the Project would be reduced to less than significant levels.  Additionally, 
+the  Implementation  of  Mitigation  Measure  AQ-1.1  would  reduce  the 
+Project’s impact to the cumulative exposure of nearby sensitive receptors 
+to  toxic  air  contaminants  to  a  less  than-significant  level.  (Less  than 
+Significant with Mitigation Incorporated)  
+ 
+Facts in Support of the Finding: As discussed in Section 3.3 of the DEIR and the Air 
+Quality Analysis (Appendix B of the DEIR), implementation of Mitigation 
+Measure AQ-1.1, would reduce the maximum increased lifetime cancer 
+risks (assuming infant exposure) and maximum increased annual PM  
+2.5
+emission associated with the Project construction activities to the off-site 
+Maximally Exposed Individual (MEI) to 3.6 per million and 0.13 μg/m3, below 
+the BAAQMD single-source thresholds of 10.0 per million and 0.3 μg/m3, 
+respectively.  Implementation  of  Mitigation  Measure  AQ-1.1  would  also 
+reduce the maximum increased cumulative lifetime cancer risks and annual 
+PM  concentration impacts to a less than significant level, from 131.8 per 
+10
+ 
+  4 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+million to 26.8 per million and 1.4 to 0.66 μg/m3 which  are below the 
+BAAQMD cumulative thresholds of more than 100 per million and more than 
+0.8 μg/m3, respectively.  
+ 
+Biological Resources 
+Impact:  Impact  BIO-1:  Project  construction  could  impact  nesting  birds  on  or 
+adjacent to the site, if present. 
+ 
+Mitigation:  MM BIO-1.1: Avoidance: The project applicant shall schedule demolition 
+and construction activities to avoid the nesting season. The nesting season 
+for most  birds, including most raptors in the San  Francisco Bay area, 
+extends from February 1st through August 30th (inclusive). 
+ 
+MM BIO-1.2: Nesting Bird Surveys: Demolition and construction cannot be 
+scheduled to occur between September 1 and January 31st (Inclusive), pre-
+construction surveys for nesting birds shall be completed by a qualified 
+ornithologist  to  ensure  that  no  nests  shall  be  disturbed  during  project 
+implementation. This survey shall be completed no more than 14 days prior 
+to the initiation of construction activities during the early part of the breeding 
+season (February 1st through April 30th inclusive) and no more than 30 days 
+prior to the initiation of these activities during the late part of the breeding 
+season (May 1st through August 30th inclusive). During this survey, the 
+ornithologist  shall  inspect  all  trees  and  other  possible  nesting  habitats 
+immediately adjacent to the construction areas for nests.  
+ 
+MM BIO-1.3: Buffer Zones: If an active nest is found sufficiently close to 
+work areas to be disturbed by construction, the ornithologist, in consultation 
+with the California Department of Fish and Wildlife, shall determine the 
+extent of a construction free buffer zone to be established around the nest, 
+typically 250 feet, to ensure that raptor or migratory bird nests shall not be 
+disturbed during project construction. 
+ 
+MM BIO-1.4: Reporting: Prior to any tree removal, or approval of any 
+grading permits (whichever occurs first), the ornithologist shall submit a 
+report indicating the results of the survey and any designated buffer zones 
+to the satisfaction of the City’s Director of Planning, Building and Code 
+Enforcement or the Director’s designee.  
+ 
+Finding:  Implementation of Mitigation Measures BIO-1.1 through BIO-1.4 would 
+reduce potential impacts to nesting migratory birds to a less than 
+significant level. (Less than Significant with Mitigation Incorporated) 
+ 
+  5 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+Facts in Support of the Finding: As discussed in Section 3.4, Biological Resources of 
+the Draft EIR, construction disturbance and project tree removal during 
+avian breeding season could result in the incidental loss of eggs or nestlings 
+either directly. Scheduling construction and tree removal/pruning activities 
+outside of the nesting season would avoid disturbance to nesting birds. If 
+construction activities cannot be scheduled to occur outside of the nesting 
+season,  conducting  pre-construction  surveys  and  implementing  a 
+construction-free buffer zone around any migratory bird nests will ensure 
+that  raptor  and  migratory  bird  nests  are  not  disturbed  during  project 
+construction, under the Migratory Bird Treaty Act and California Fish and 
+Game Code. The size of the buffer zones will be determined by consultation 
+between the qualified ornithologist and the CDFW and based on scientific 
+evidence  and  best  management  practices.  Compliance  with  Mitigation 
+Measures BIO-1.1-1.4 would avoid impacts to nesting birds. 
+ 
+ 
+Cultural Resources 
+Impact:  CUL-1:  Implementation  of  the  proposed  project  would  result  in  the 
+demolition of the Craftsman-style house and the seven Spanish Revival- 
+style  bungalows  on-site  that  are  eligible  City  Landmarks,  a  significant 
+impact.  
+ 
+CUL(C)-1:  Implementation  of  the  proposed  project  would  result  in  a 
+cumulatively considerable contribution to a significant cultural resources 
+impact to the remaining Craftsman-style houses and bungalow courts in the 
+City. 
+ 
+Mitigation:  MM CUL-1.1: The project applicant shall implement the following measures 
+prior to any demolition permits for the Craftsman-style house and seven 
+Spanish Revival-style bungalow units on-site.  
+ 
+Documentation: The structures shall be documented in accordance with the 
+guidelines established for the Historic American Building Survey (HABS) 
+and shall consist of the following components:  
+ 
+1.  Drawings – Prepare sketch floor plans.  
+2.  Photographs  –  Digital  photographic  documentation  of  the  interior, 
+exterior, and setting of the buildings in compliance with the National 
+Register Photo Policy Fact Sheet. Photos must have a permanency 
+rating of approximately 75 years.  
+3.  Written Data – HABS written documentation in short form.  
+ 
+  6 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+This documentation shall be prepared by a professional historic resources 
+consultant who meets the Secretary of Interior’s Professional Qualifications 
+Standards. The report shall be deposited with History San José and a copy 
+provided to the City’s Planning Division as well as filed with the Northwest 
+Information Center, Sonoma State University. 
+ 
+Relocation by a Third Party: The structures shall be advertised for relocation 
+by a third party. The project applicant shall advertise the availability of the 
+structure for a period of no less than 30 days. The advertisements must 
+include a newspaper of general circulation, a website, and notice on the 
+project site and must be reviewed by the City’s Historic Preservation Officer 
+or  Environmental  Review  Supervising  Planner  prior  to  circulation.  The 
+project applicant shall provide evidence to City staff that this condition has 
+been met prior to the issuance of any demolition permits.  
+ 
+If a third party does agree to relocate one or more of the structures the 
+following measures must be followed: 
+ 
+1.  The City’s Director of Planning, Building and Code Enforcement, based 
+on  consultation  with  the  City’s  Historic  Preservation  Officer,  must 
+determine that the receiver site(s) are suitable for the building(s). 
+2.  Prior to relocation, a historic preservation architect and a structural 
+engineer shall undertake an existing condition study. The purpose of the 
+study shall be to establish the baseline condition of the buildings prior to 
+relocation. The documentation shall take the form of written descriptions 
+and  visual  illustrations,  including  those  character-defining  physical 
+features of the resource that convey its historic significance and must be 
+protected and preserved. The documentation shall be reviewed and 
+approved by the City of San José prior to the structures being moved. 
+Documentation already completed will be used to the extent possible to 
+avoid repetition in work. 
+3.  To protect the buildings during relocation, the third party shall engage a 
+building mover who has experience moving similar historic structures. A 
+structural engineer will also be engaged to determine if the buildings 
+need to be reinforced/stabilized before the move. 
+4.  The project applicant shall offer financial assistance for the relocation 
+that is equal to a reasonable cost of demolition of the structure(s). 
+5.  Once moved, the building shall be repaired and restored, as needed, in 
+conformance  with  the  Secretary  of  the  Interior’s  Standards  for  the 
+Treatment of Historic Properties. In particular, the character-defining 
+ 
+  7 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+features shall be restored in a manner that preserves the integrity of the 
+features for the long-term preservation of these features.  
+Upon completion of the repairs, a qualified architectural historian shall 
+document and confirm that renovations of the structure(s) were completed 
+in  conformance  with  the  Secretary  of  the  Interior’s  Standards  for  the 
+Treatment of Historic Properties and that all character-defining features 
+were preserved and submit a memo report to the Director of Planning, 
+Building and Code Enforcement or Director’s designee.  
+ 
+Salvage: If no third party relocates the structure(s), the structure(s) shall be 
+made available for salvage to salvage companies facilitating the reuse of 
+historic building materials. The time frame available for salvage shall be 
+established by the City of San José Department of Planning, Building and 
+Code Enforcement. The project applicant must provide evidence to the 
+Director  of  Planning,  Building,  and  Code  Enforcement  or  Director’s 
+designee that this condition has been met prior to the issuance of demolition 
+permits.  
+ 
+Finding:    Even with implementation of the identified mitigation measures; demolition 
+or salvage of the Craftsman-style single-family residence and the seven 
+bungalow units at 1530 West San Carlos Street would remain a significant 
+unavoidable impact because the residences would be permanently lost. 
+Relocation of the structures, while preserving the structures in a different 
+location,  would  result  in  a  loss  of  connection  to  its  current  location. 
+Specifically, the structures would no longer be recognized as a residence 
+associated with the City’s agricultural past and early 20th century residential 
+development of West San Carlos Street, which post-war development has 
+replaced.   (Significant and Unavoidable Impact) 
+ 
+Facts in Support of the Finding:  The residences at 1530 West San Carlos Street, 
+including  the  Craftsman-style  single-family  residence  and  the  seven 
+identical bungalows, as discussed in Section 3.5 of the DEIR, have been 
+determined to be candidate City Landmarks per the Historic Resources 
+Evaluation prepared by Treanor HL on April 10, 2019 and updated July 29, 
+2019, because they meet the local eligibility criteria as defined in Section 
+13.48.110.H of the San José Municipal Code, having significance for its 
+character, interest or value as part of the local, regional state or national 
+history, heritage or culture; embodiment of distinguishing characteristics of 
+an  architectural type or specimen; and its embodiment  of elements of 
+architectural or engineering design, detail, materials or craftsmanship which 
+represents a significant architectural innovation or which is unique. The 
+Secretary  of  Interior’s  (SOI’s)  standards  for  the  Treatment  of  Historic 
+ 
+  8 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+Properties includes four treatments: preservation, rehabilitation, restoration 
+and  reconstruction.  Preservation  refers  to  maintain  the  existing  form, 
+integrity  and  materials  of  a  historic  property.  Rehabilitation  allows  for 
+compatible use for a property through repair, alterations, and additions while 
+preserving  its  historical  features.  Restoration  is  the  act  of  accurately 
+depicting  a  property  as  it  appeared  at  a  particular  period  of  time. 
+Reconstruction refers to constructing a new building for the purpose of 
+replicating a historic building’s appearance as a specific period of time. The 
+project proposes to demolish all eight residential structures on-site which 
+are  candidate  City  Landmark  structures  without  preserving,  restoring, 
+rehabilitating, or reconstructing any portions of the historic buildings. While 
+Mitigation  Measure  CUL-1.1  would  help  to  retain  the  memory  of  the 
+buildings  and  their  association  with  the  City’s  history,  the  loss  of  the 
+buildings  and  their  association  with  the  project  site  would  remain  a 
+significant and unavoidable impact. 
+ 
+Hazards and Hazardous Materials 
+ 
+Impact:  Impact HAZ-1: Construction activities associated with the proposed project 
+could  expose  construction  workers  and  nearby  land  uses  related  to 
+hazardous  materials  associated  with  the  previous  auto  shop  and 
+agricultural uses during earthwork activities.  
+ 
+Mitigation:  MM  HAZ-1.1:  Prior  to  the  commencement  of  earthwork  activities,  the 
+project  applicant  shall  hire  a  qualified  professional  to  develop  a  Site 
+Management Plan that includes:  
+1.  Stockpile  management  including  dust  control,  sampling,  stormwater 
+pollution prevention and the installation of BMPs; 
+2.  Proper disposal procedures of contaminated materials; 
+3.  Monitoring, reporting, and regulatory oversight notifications; 
+4.  A health and safety plan for each contractor working at the site that 
+addresses  the  safety  and  health  hazards  of  each  phase  of  site 
+operations  with  the  requirements  and  procedures  for  employee 
+protection; and 
+5.  The  health  and  safety  plan  will  also  outline  proper  soil/  and  or 
+groundwater handling procedures and health and safety requirements 
+to minimize worker and public exposure to contaminated soil/and or 
+groundwater during construction. 
+ 
+  9 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+ 
+The Site Management Plan shall be submitted to the Director of Planning, 
+Building  and  Code  Enforcement  or  Director’s  designee  and  the  City’s 
+Municipal  Environmental  Compliance  Officer  of  the  Department  of 
+Environmental Services.  
+ 
+If any contamination is encountered above appropriate regulatory screening 
+levels, then the applicant will notify the Santa Clara County Department of 
+Environmental Health and enter into the County Site Cleanup Program. 
+Removal of USTs and additional sampling/analysis will be completed under 
+County Oversight. Evidence of County oversight shall be provided to the 
+Director of  Planning, Building  and  Code Enforcement or  the  Director’s 
+designee and the Municipal Environmental Compliance Officer. 
+ 
+Finding:  Implementation of Mitigation Measure HAZ-1.1 would reduce exposure of 
+construction workers and nearby residences from contaminated on-site soil 
+to  less  than  significant  levels.  (Less  than  Significant  Impact  with 
+Mitigation Incorporated) 
+ 
+Facts in Support of the Finding:  According to the analysis in Section 3.9 Hazards and 
+Hazardous Materials of the DEIR, the western portion of the site has been 
+used for auto commercial uses since the 1950s and contained a former 
+underground storage tank (UST). During the Phase II investigation, signs or 
+presence of the former UST were not identified. In addition, soil sampling 
+was completed to evaluate the potential of carbon chain total petroleum 
+hydrocarbons  (TPH-cc),  and/or  volatile  organic  compounds  (VOCs)  to 
+contaminate on-site soils. Sampling results show that levels of TPH-cc and 
+VOCs were below the applicable environmental screening levels (ESLs). 
+Refer  to  Appendix  F  for  additional  details  about  sampling  locations, 
+methods, and results. While presence of the UST was not discovered, 
+Mitigation Measure HAZ-1.1 would be implemented in the event the UST or 
+residual  contamination  from  the  UST  are  discovered  during  project 
+earthwork  activities.   Preparation  of a  Site  Management  Plan  for  best 
+management  practices  and  health  and  safety  plan  to  educate  on-site 
+workers, and potential testing to find out the extent of contaminated soil 
+would ensure that impacts from contaminated soil being released into the 
+environment during construction would be less than significant.  
+ 
+// 
+// 
+// 
+// 
+ 
+  10 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+Noise 
+ 
+Impact:  Impact  NOI-1:  Project  construction  would  generate  vibration  levels 
+reaching up to 1.2 in/sec PPV (within five feet south from project site), in 
+exceedance  of  0.2  in/sec  PPV  at  buildings  of  normal  conventional 
+construction located within 30 feet of the project site. 
+ 
+Mitigation:  MM NOI-1.1: Equipment Selection. Prior to issuance of any demolition or 
+grading permits, the project applicant shall implement the following controls 
+to reduce vibration impacts from construction activities: 
+1.  Prohibit  impact  or  vibratory  pile  driving.  Drilled  piles  or  mat  slab 
+foundations cause lower vibration levels where geological conditions 
+permit their use. 
+2.  A list of all heavy construction equipment to be used for this project 
+known  to  produce  high  vibration  levels  (tracked  vehicles,  vibratory 
+compaction, jackhammers, hoe rams, etc.) shall be submitted to the City 
+by the contractor. This list shall be used to identify equipment and 
+activities that would potentially generate substantial vibration and to 
+define the level of effort required for continuous vibration monitoring. 
+3.  Place operating equipment on the construction site at least 30 feet from 
+vibration-sensitive receptors. 
+4.  Use the smallest equipment available to complete the task and minimize 
+vibration levels as low as feasible. 
+5.  Avoid using vibratory rollers and tampers near sensitive areas. 
+6.  Select demolition methods not involving impact tools. 
+7.  Modify/design or identify alternative construction methods to reduce 
+vibration levels below the limits. 
+8.  Avoid dropping heavy objects or materials. 
+ 
+MM NOI-1.2:  Vibration monitoring plan. Prior to issuance of demolition or 
+grading  permits,  the  project  applicant  shall  implement  a  construction 
+vibration monitoring plan to document condition of conventional properties 
+within  30  feet  of  the  project  site  prior  to,  during,  and  after  vibration 
+generating construction activities. All plan tasks shall be undertaken under 
+the direction of a licensed Professional Structural Engineer in the State of 
+California and be in accordance with industry accepted standard methods. 
+The construction vibration monitoring plan shall be implemented to include 
+the following tasks: 
+ 
+  11 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+1.  Identification of sensitivity to ground-borne vibration of the property. A 
+vibration survey (generally described below) shall be performed. 
+2.  Performance of a photo survey, elevation survey, and crack monitoring 
+survey for the structures within 30 feet of the site. Surveys shall be 
+performed prior to, in regular intervals during, and after completion of 
+vibration generating construction activities and shall include internal and 
+external crack monitoring in the structure, settlement, and distress and 
+shall document the condition of the foundation, walls and other structural 
+elements in the interior and exterior of said structure. 
+3.  Development of a vibration monitoring and construction contingency 
+plan to identify where monitoring shall be conducted, set up a vibration 
+monitoring  schedule,  define  structure-specific  vibration  limits,  and 
+address the need to conduct photo, elevation, and crack surveys to 
+document before and after construction. Construction contingencies, 
+such as alternative construction methods and equipment, or securing 
+the structure, shall be identified for when vibration levels approach the 
+limits. 
+4.  If vibration levels approach limits, suspend construction and implement 
+contingencies to either lower vibration levels or secure the affected 
+structure. 
+5.  Complete a post-survey on the structure where either monitoring has 
+indicated high levels or complaints of damage. Make appropriate repairs 
+in  accordance  with  the  Secretary  of  the  Interior’s  Standards  where 
+damage has occurred as a result of construction activities. 
+6.  The  results  of  all  vibration  monitoring  shall  be  summarized  and 
+submitted in a report shortly after substantial completion of each phase 
+identified in the project schedule. The report will include a description of 
+measurement methods, equipment used, calibration certificates, and 
+graphics as required to clearly identify vibration-monitoring locations. An 
+explanation of all events that exceeded vibration limits will be included 
+together with proper documentation supporting any such claims. 
+7.  Designate a person responsible for registering and investigating claims 
+of excessive vibration. The contact information of such person shall be 
+clearly posted on the construction site. 
+ 
+Finding:        With  implementation  of  Mitigation  Measures  NOI-1.1  and  NOI-1.2  and 
+standard permit conditions, vibration generated during the project’s 48-
+month construction period would have less than significant impacts on the 
+ 
+  12 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+adjacent  buildings  (Less  than  Significant  Impact  with  Mitigation 
+Incorporated) 
+ 
+Facts in Support of the Finding: As discussed in Section 3.13 of the Draft EIR and 
+supporting  Noise  and  Vibration  Assessment  prepared  for  the  Project 
+(Appendix G of the DEIR), the project would be constructed over a 48-month 
+construction  period  divided  into  two  phases.  Identifying  the  sensitive 
+buildings adjacent to the project and monitoring vibration activities would 
+ensure  that  activities  involving  vibrating  equipment  would  not  cause 
+damage to adjacent structures within 30 feet of the project site and that any 
+damaged  caused  would  be  repaired.  Using  equipment  with  a  lower 
+threshold for vibration impacts would also assist in ensuring that no damage 
+would occur from construction activities using vibrating equipment.  
+ 
+ 
+ 
+FINDINGS CONCERNING ALTERNATIVES 
+ 
+In order to comply with the purposes of CEQA, it is important to identify alternatives that 
+reduce the significant impacts that are anticipated to occur if the project is implemented 
+and to try to meet as many of the project’s objectives as possible.  The CEQA Guidelines 
+emphasize a common sense approach -- the alternatives should be reasonable, should 
+“foster  informed  decision  making  and  public  participation,”  and  should  focus  on 
+alternatives that avoid or substantially lessen the significant impacts.   
+ 
+The alternatives analyzed in the DEIR were developed with the goal of being at least 
+potentially  feasible,  given  Project  objectives  and  site  constraints,  while  avoiding  or 
+reducing the Project’s identified environmental effects.  The following are evaluated as 
+alternatives to the proposed Project: 
+ 
+1)  No Project – No Development Alternative 
+2)  No Project – Existing Land Use Designation Alternative 
+3)  Design Alternative – Relocate and restore five bungalows (historic resources) 
+ 
+1.  No Project – No Development Alternative 
+A.  Description of Alternative: The No Project – No Development Alternative would 
+retain  the  existing  land  uses  on-site  as  is,  which  includes  the  existing  auto 
+commercial, commercial (restaurant), and martial arts studio (commercial), and 
+eight residential structures on-site.   
+ 
+  13 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+B.  Comparison  of  Environmental  Impacts:  Under  the  No  Project  –  No 
+Development Alternative, none of the impacts of the project would occur including 
+the significant and unavoidable impact to cultural resources.   
+C.  Finding: This alternative would not meet any of the project objectives because the 
+No Project – No Development Alternative would not result in any new development 
+on the site. Specifically, this alternative would not allow for the density encouraged 
+under  the  General  Plan  designation  and  zoning.  Therefore,  because  this 
+alternative would not meet any of the project objectives, this alternative is rejected. 
+ 
+2.  No Project – Existing Land Use Designation Alternative 
+ 
+A.  Description of Alternative: The No Project – Existing Land Use Designation  
+Alternative is essentially the same as the proposed project. This alternative was 
+proposed  when  the  project  still  included  a  Planned  Development  Rezoning 
+application to rezone the site from the existing CP Commercial Pedestrian Zoning 
+District and the R-M Multiple Residence Zoning District to a Planned Development 
+Zoning District. This alternative maintained the existing zoning districts and would 
+have constructed a similar project consistent with the General Plan designation 
+and zoning districts. The originally proposed Planned Development Rezoning 
+would  have  afforded  the  project  more  flexibility  in  terms  of  site  design  and 
+setbacks. Under Assembly Bill 3194, the Housing Accountability Act Amendment, 
+effective January 1, 2019, the local governments’ authority is limited and cannot 
+reject  or  restrict  housing  development  projects  that  comply  with  applicable 
+objective general plan, zoning, and subdivision standards. Therefore, the Planned 
+Development rezoning application is no longer required for the project rendering 
+this alternative essentially the same as the analyzed project.  
+B.  Comparison of Environmental Impacts: Under this alternative, the project would 
+remain the same and result in the same impacts.  
+C.  Finding: Because rezoning is no longer required, there is no land use designation 
+alternative. Importantly, alternatives are alternatives that would feasibly attain most 
+of the basic objectives of the project but would avoid or substantially lessen any of 
+the significant impacts of the project. Because this alternative does not reduce any 
+impacts,  it  is  not  a  reasonable  or  feasible  alternative.  Therefore,  this  non-
+alternative is rejected.  
+// 
+// 
+// 
+ 
+  14 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+3. Design Alternative – Relocate and Restore Five of the Seven Historic 
+Bungalows 
+A.  Description of Alternative: The Design Alternative – Replace and Restore Five 
+of the Seven Historic Bungalows would lessen the project’s impact on the historic 
+resources by relocating and restoring five of the seven historic Spanish Revival-
+style bungalows on the site.  This alternative would require the project to  be 
+redesigned in a manner that would preserve the historic resources to the extent 
+feasible while still allowing a physically feasible development on the project site. 
+The proposed Building 1 of the Project would be redesigned with a reduced 
+building footprint to allow five of the historic bungalow units to be relocated and 
+preserved on the southern portion of the site. The proposed Building 2 would 
+remain the same as the proposed project. The five bungalow units would be 
+situated in a horseshoe layout and facing each other to form a central court in the 
+middle, recreating a similar court-like court as the existing unit layout. Building 1, 
+under this alternative, would have 24 fewer residential units, 11,165 square feet 
+less of commercial space, and 18,923 square feet less common space. Building 1 
+would include 79 residential units, 10,000 square feet of commercial space, and 
+6,000 square feet of common space, which combined with Building 2 would result 
+in a density of 111 du/ac and 0.29 commercial floor-area ratio (FAR). Additionally, 
+Building 1 would be set back at least 95 feet from the southern property line. 
+Building  stories  and  height  would  remain  the  same.  Access  to  the  site  and 
+bungalow units would be provided on the proposed driveway on West San Carlos 
+Street. This design alternative would preserve five of the seven bungalow units 
+and would reduce the impact to the historic resources but not to a less than 
+significant level. All other impacts during construction and operation would be 
+similar to that of the proposed project.  
+B.  Comparison of Environmental Impacts: Under this alternative, five of the seven 
+bungalows would be relocated and preserved. Therefore, not all of the historic 
+resources (eligible City Landmarks) would be preserved. The design alternative 
+would lessen the significant impact to the historic resources; however, all other 
+impacts during construction and operation would be similar to that of the proposed 
+project.  
+C.  Finding: Under the Design Alternative, only some of the project objectives would 
+be met or partially met. For instance, Objective 1 which is consistent with the goals 
+of  the  West  San  Carlos  Urban  Village  Plan  would  not  be  met  because  the 
+commercial FAR would not meet the minimum 0.3 requirement of the Plan. This 
+alternative would not meet Objectives 5 and 7 or conform with the conceptual 
+paseo envisioned in Figure 2.2-5 of the West San Carlos Urban Village Plan 
+because it would relocate the bungalow units to the southern portion of the site 
+where the paseo is proposed for the project and Urban Village.  This Design 
+ 
+  15 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+Alternative would meet Objective 2 to provide a minimum density of 111 du/ac. 
+The site currently contains approximately 7,600 square feet of commercial uses. 
+The Design Alternative would meet Objective 3 because it would include more 
+commercial space for tax revenue compared to existing conditions. The Design 
+Alternative would also meet Objective 4 because it would be required to replace 
+the  existing  sidewalk  on  the  project  frontages  consistent  with  the  City 
+requirements, and it would include commercial/retail uses on the West San Carlos 
+Street project frontage. The Design Alternative would meet Objective 6 because it 
+would  continue  to  be  subject  to  the  West  San  Carlos  Urban  Village  Design 
+Guidelines.  This alternative would relocate, preserve, and restore five of the 
+historic bungalows on-site. While the preservation would reduce the severity of the 
+historic resources lost, the alternative would continue to impact historic resources 
+as the single-family home and two other bungalows would be demolished. In 
+consideration of the potential for preservation, the objectives this project would 
+meet, and the balancing of this alternative against the proposed project and City’s 
+need  for  dense,  mixed-use  residential/commercial  projects,  this  alternative  is 
+rejected. 
+ 
+Environmentally Superior Project 
+The No Project – No Development Alternative would avoid all project impacts, including 
+the significant and unavoidable impact to potential historic resources of significance to 
+the City of San José. However, per Section 15126.6(e)(2) of the CEQA Guidelines, when 
+the no-project alternative is the environmentally superior alternative, another alternative 
+shall be identified as the environmentally superior alternative. The Design Alternative – 
+Relocation and Preservation of five bungalows would meet most of the project objectives 
+and avoid the significant and unavoidable impact of the project. This alternative would 
+lessen the significant impacts to the historic resources and support a dense mixed-use 
+project near transit which aligns with the City’s Envision San José 2040 General Plan and 
+Urban Village goals. Therefore, this alternative is the environmentally superior alternative. 
+ 
+ 
+MITIGATION MONITORING AND REPORTING PROGRAM 
+ 
+Attached to this Resolution as Exhibit “A” and incorporated and adopted as part of this 
+Resolution herein is the Mitigation Monitoring and Reporting Program (“MMRP”) for the 
+Project required under Section 21081.6 of the CEQA Statute and Section 15097(b) of the 
+CEQA Guidelines. The MMRP identifies impacts of the Project, corresponding mitigation, 
+designation of responsibility for mitigation implementation and the agency responsible for 
+the monitoring action. 
+ 
+ 
+ 
+  16 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+STATEMENT OF OVERRIDING CONSIDERATIONS 
+Pursuant to the provisions of CEQA, the City Council of the City of San José hereby 
+adopts and makes the following statement of overriding considerations regarding the 
+significant and unavoidable impact of the Project as outlined above and the anticipated 
+economic, social, and other benefits of the Project. 
+ 
+A.  Significant Unavoidable Impacts.  With respect to the foregoing findings and in 
+recognition of those facts which are included in the record, the City has determined 
+the Project has significant unavoidable impacts, as set forth above, associated with 
+demolition of eight candidate City Landmark structures. 
+B.  Overriding Considerations.  The City Council specifically adopts and makes this 
+Statement  of  Overriding  Considerations  that  this  Project  has  eliminated  or 
+substantially lessened all significant effects on the environment where feasible, 
+and  finds  that  the  remaining  significant  unavoidable  impact  of  the  Project  is 
+acceptable  in  light  of  the  economic  and  social  considerations  noted  below, 
+because the benefits of the Project outweigh the significant unavoidable impact of 
+the Project.  The City Council finds that the overriding considerations set forth 
+below constitutes a separate and independent ground for finding that the benefits 
+of the Project outweigh its significant unavoidable environmental impact and is an 
+overriding consideration warranting approval of the Project.  These matters are 
+supported by evidence in the record that includes, but is not limited to, the Envision 
+San José 2040 General Plan and to development in the West San Carlos Urban 
+Village. 
+C.  Benefits of the Proposed Project.  While the City recognizes that there is historic 
+value  in  retaining  the  Craftsman-style  single-family  residence  and  the  seven 
+Spanish Revival-style bungalows as City Landmarks associated with the City’s 
+agricultural past and the advent of the automobile prior to World War II, the City 
+has designated growth areas such as the West San Carlos Urban Village for the 
+development of dense, mixed-use, multi-modal projects.   The City Council has 
+considered the public record of proceedings on the proposed Project and other 
+written materials presented to the City as well as oral and written testimony at all 
+public  hearings  related  to  the  Project,  and  does  hereby  determine  that 
+implementation of the Project as specifically provided in the Project documents 
+would result in the following substantial public benefits. 
+1)  Provision of a Mixed-Use Project in an Identified Growth Area. Consistent 
+with Major Strategy #3 (Focused Growth) of the General Plan, this project 
+would provide 173 dwelling units and 17,836 square feet of commercial space 
+within two seven-story buildings, sited within a transit priority area, primarily 
+served by VTA Bus Routes 23 and 523 (considered major transit stops because 
+the routes have headways of 15 minutes during the AM and PM peak commute 
+ 
+  17 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+periods, and is in close proximity to Downtown.  The project would support job 
+growth by providing neighborhood-supportive retail spaces along West San 
+Carlos Street and provide new housing units to meet the City’s increasing 
+housing demand.  
+2)  Provision of a Paseo. In addition to the residential/commercial mixed uses, 
+the project would include a 30-foot walkway that wraps around the building and 
+connects to the proposed driveway and the sidewalk on West San Carlos Street 
+to the proposed (private) paseo which is part of the project and envisioned for 
+the West San Carlos Urban Village.   
+3)  Development in Transit Rich Area and along a Grand Boulevard. The 
+project site is located along West San Carlos Street - a Grand Boulevard that 
+is served by several bus lines. The project site is also within 1.5 miles from the 
+Diridon Transit Depot, a station served by ACE, Caltrain, Greyhound, Amtrak, 
+VTA bus lines, and the future BART line.   
+4)  Complete Communities.  The proposed development also includes 12,818 
+square feet of outdoor common open space and 9,412 square feet of indoor 
+amenity space in the proposed buildings, and a 4,450-square foot private 
+paseo. The development will also provide on-site parking for vehicles and 
+bicycles, both for the residential component and the retail component of the 
+project. The project will advance the Envision San José 2040 General Plan 
+policies to create a complete community with a mixed-use building with an 
+amenity-rich  residential  use  and  new  commercial/retail  uses  placed  within 
+walking distance of neighborhoods and the commercial businesses along West 
+San  Carlos  Street.  Placing  complementary  land  uses  like  residential  and 
+commercial/retail  uses  near  each  other  will  reduce  the  number  of  single-
+occupancy automobile trips and  vehicle miles traveled compared with  the 
+equivalent amount of development in a more suburban location where uses are 
+separated. Less trips would contribute to a  decrease in project-generated 
+greenhouse gas emissions. 
+ 
+Based on the above, the project would meet the strategies and goals of the Envision San 
+José 2040 General Plan and Urban Village criteria of locating high density development 
+on infill sites near transit corridors, activating West San Carlos Street by providing ground 
+floor retail, and promoting bicycling by providing bicycle parking.  
+ 
+The City Council has weighed each of the above benefits of the proposed Project against 
+its significant unavoidable impact identified in the EIR, and hereby determines that these 
+benefits outweigh the adverse environmental effect of the Project and, therefore, further 
+determines that the adverse environmental effect is acceptable and overridden. 
+ 
+ 
+ 
+  18 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. NVF:VMT:JMD 
+8/3/2021 
+ 
+ 
+LOCATION AND CUSTODIAN OF RECORDS 
+ 
+The documents and other materials that constitute the record of proceedings on which 
+the City Council based the foregoing findings and approval of the Project are located at 
+the Department of Planning, Building and Code Enforcement, 200 East Santa Clara 
+Street, Third Floor Tower, San José, CA 95113. 
+ 
+ 
+ADOPTED this            day of           ,           , by the following vote: 
+ 
+ 
+  AYES:             
+ 
+ 
+  NOES:             
+ 
+ 
+  ABSENT:             
+ 
+ 
+  DISQUALIFIED:             
+ 
+ 
+     
+ 
+  SAM LICCARDO 
+Mayor 
+ATTEST: 
+ 
+           
+ 
+TONI J. TABER, CMC 
+City Clerk 
+ 
+ 
+  19 
+T-41008.001/1844635 
+Council Agenda: 08-24-2021 
+Item No.:  10.2(a) 
+DRAFT – Contact the Office of the City Clerk at (408)535-1260 or CityClerk@sanjoseca.gov for final 
+document. DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document. 
+ DRAFT--Contact the Office of the City Clerk at (408) 535-1260 or CityClerk@sanjoseca.gov for final document.
