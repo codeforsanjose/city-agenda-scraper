@@ -11,15 +11,39 @@
 
 # TODO rename downloaded files according to convention.
 
+import glob
 import os
 import sys
+import time
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 
+pdf_details = {}
+
 def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meeting="City Council"):
+    def rename_file(new_name):
+        seconds = 0
+        dl_wait = True
+        while dl_wait and seconds < 20:
+            time.sleep(0.1)
+            dl_wait = False
+            for fname in os.listdir(full_path):
+                if fname.endswith('.crdownload'):
+                    dl_wait = True
+            seconds += 0.1
+
+        list_of_files = glob.glob(full_path + "/*")
+        if len(list_of_files) > 0:
+            latest_file = max(list_of_files, key=os.path.getmtime)
+            os.rename(latest_file, full_path + '/' + new_name.replace('/', '-'))
+            return True
+
+        return False
+
+    pdf_details['city_name'] = city_name
 
     chrome_options = webdriver.ChromeOptions()
     prefs = {"download.default_directory": full_path}
@@ -64,6 +88,13 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
             WebDriverWait(driver, 60).until(EC.presence_of_all_elements_located(
                 (By.ID, 'ctl00_ContentPlaceHolder1_gridMain_ctl00')))
 
+            pdf_details['meeting_name'] = driver.find_element_by_id(
+                'ctl00_ContentPlaceHolder1_hypName').text
+            pdf_details['meeting_date'] = driver.find_element_by_id(
+                'ctl00_ContentPlaceHolder1_lblDate').text
+            pdf_details['meeting_time'] = driver.find_element_by_id(
+                'ctl00_ContentPlaceHolder1_lblTime').text
+
             meeting_rows = driver.find_element_by_id('ctl00_ContentPlaceHolder1_gridMain_ctl00').find_elements_by_tag_name('tbody')[0].find_elements_by_tag_name('tr')
             try:
                 def get_a(el):
@@ -86,10 +117,20 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
                         '''window.open("%s", "_blank");''' %agenda_link.get_attribute('href'))
                     WebDriverWait(driver, 20).until(EC.number_of_windows_to_be(3))
                     driver.switch_to_window(driver.window_handles[2])
+                    pdf_details['file_number'] = driver.find_element_by_id(
+                        'ctl00_ContentPlaceHolder1_lblFile2').text
+                    pdf_details['version'] = driver.find_element_by_id(
+                        'ctl00_ContentPlaceHolder1_lblVersion2').text
                     try:
-                        # TODO change to link text contains memorandum?
+                        # TODO change to link text contains 'memorandum'?
                         memorandum = driver.find_element_by_link_text('Memorandum')
                         memorandum.click()
+                        rename_file(pdf_details['city_name'] + '_'
+                            + pdf_details['meeting_name'] + '_'
+                            + pdf_details['meeting_date'] + '_'
+                            + pdf_details['meeting_time'] + '_'
+                            + pdf_details['file_number'] + '_'
+                            + pdf_details['version'] + '.pdf')
                     finally:
                         driver.close()
                         driver.switch_to_window(driver.window_handles[1])
@@ -112,3 +153,5 @@ if __name__ == "__main__":
     target_meeting = sys.argv[3]
 
     scrape_meetings(current_city, time_period, target_meeting)
+
+# https://docs.google.com/presentation/d/1_GfTIlF5si0LWDcsyWteF_rGwk2LaQJcXpSGxz0N5TY/edit?usp=sharing
