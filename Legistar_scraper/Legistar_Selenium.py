@@ -146,5 +146,6 @@ agenda_table = get_agenda(link, meeting_date, meeting_name)
 agenda_table.to_csv((full_path + meeting_name + '_' + meeting_date + '.csv'), index=False, errors='replace')
 # Creates filename with 'Meeting Name' and 'Date'
 
-drive_upload(full_path, drive)
+# Now that we have the csv - upload to Google drive
+drive_upload(full_path, drive, current_city)
 
