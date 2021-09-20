@@ -17,11 +17,14 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.options import Options
 import pandas as pd
 from dotenv import load_dotenv
 from Gdrive_upload_methods import drive_upload, drive_launch
 
+load_dotenv()
 full_path = os.environ.get('full_path')
+
 drive = drive_launch()
 current_city = sys.argv[1]
 time_period = sys.argv[2]
@@ -30,10 +33,15 @@ meeting_type = sys.argv[3]
 session = HTMLSession()
 
 
-def scrape_meetings(url):
 
-    driver = webdriver.Firefox()
-    driver.get("https://%s.legistar.com/Calendar.aspx" %(url))
+
+def get_link():
+
+    # Set up options to launch Firefox
+    options = Options()
+    options.headless = True
+    driver = webdriver.Firefox(options=options)
+    driver.get("https://%s.legistar.com/Calendar.aspx" %(current_city))
     WebDriverWait(driver, 10000).until(EC.presence_of_element_located(
         (By.ID, 'ctl00_ContentPlaceHolder1_tdYears')))
     driver.find_element_by_id('ctl00_ContentPlaceHolder1_tdYears').click()
@@ -81,10 +89,12 @@ def scrape_meetings(url):
         link = cells[Meeting_Details_index].find_element_by_link_text('Meeting details').get_attribute('href')
 
         if link is not None:
+            break
    
-   
-            get_agenda(link, Meeting_Date, Name)
     driver.close()
+    return(link, Meeting_Date, Name)
+
+
 
 def get_agenda(link, meeting_date, meeting_name):
     print(link)
@@ -122,8 +132,20 @@ def get_agenda(link, meeting_date, meeting_name):
                 continue
 
     agenda_table['Staff Report link'] = data
-    agenda_table.to_csv((full_path + meeting_name + '_' + meeting_date + '.csv'), index=False, errors='replace')
-# Creates filename with 'Meeting Name' and 'Date'
-    drive_upload(full_path, drive)
+    return agenda_table
 
-scrape_meetings(current_city)
+
+
+
+# Get the URL
+link, meeting_date, meeting_name = get_link()
+
+agenda_table = get_agenda(link, meeting_date, meeting_name)
+
+# Generate the appropriate csv
+agenda_table.to_csv((full_path + meeting_name + '_' + meeting_date + '.csv'), index=False, errors='replace')
+# Creates filename with 'Meeting Name' and 'Date'
+
+# Now that we have the csv - upload to Google drive
+drive_upload(full_path, drive, current_city)
+
