@@ -9,8 +9,6 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
-# TODO rename downloaded files according to convention.
-
 import glob
 import os
 import sys
