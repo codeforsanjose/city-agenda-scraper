@@ -9,121 +9,146 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
+import glob
 import os
 import sys
-from datetime import date, timedelta
-from requests_html import HTMLSession
+import time
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-import pandas as pd
-from dotenv import load_dotenv
-from Gdrive_upload_methods import drive_upload, drive_launch
+from selenium.webdriver.common.action_chains import ActionChains
 
-full_path = os.environ.get('full_path')
-drive = drive_launch()
-current_city = sys.argv[1]
-time_period = sys.argv[2]
-meeting_type = sys.argv[3]
+pdf_details = {}
 
-session = HTMLSession()
+def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meeting="City Council"):
+    def rename_file(new_name):
+        seconds = 0
+        dl_wait = True
+        while dl_wait and seconds < 20:
+            time.sleep(0.1)
+            dl_wait = False
+            for fname in os.listdir(full_path):
+                if fname.endswith('.crdownload'):
+                    dl_wait = True
+            seconds += 0.1
 
+        list_of_files = glob.glob(full_path + "/*")
+        if len(list_of_files) > 0:
+            latest_file = max(list_of_files, key=os.path.getmtime)
+            os.rename(latest_file, full_path + '/' + new_name.replace('/', '-'))
+            return True
 
-def scrape_meetings(url):
+        return False
 
-    driver = webdriver.Firefox()
-    driver.get("https://%s.legistar.com/Calendar.aspx" %(url))
-    WebDriverWait(driver, 10000).until(EC.presence_of_element_located(
+    pdf_details['city_name'] = city_name
+
+    chrome_options = webdriver.ChromeOptions()
+    prefs = {"download.default_directory": full_path}
+    chrome_options.add_experimental_option("prefs", prefs)
+    driver = webdriver.Chrome(chrome_options=chrome_options)
+    actions = ActionChains(driver)
+
+    driver.get("https://%s.legistar.com/Calendar.aspx" %city_name)
+    WebDriverWait(driver, 60).until(EC.presence_of_element_located(
         (By.ID, 'ctl00_ContentPlaceHolder1_tdYears')))
+
     driver.find_element_by_id('ctl00_ContentPlaceHolder1_tdYears').click()
     dates = driver.find_element_by_id('ctl00_ContentPlaceHolder1_lstYears_DropDown')
     for val in dates.find_elements_by_tag_name('li'):
         if val.text == time_period:
             val.click()
             break
-    WebDriverWait(driver, 10000).until(EC.presence_of_element_located(
-        (By.ID, 'ctl00_ContentPlaceHolder1_gridCalendar_ctl00')))
-    driver.find_element_by_id('ctl00_ContentPlaceHolder1_lstBodies_Input').click()
-    meetings = driver.find_element_by_id('ctl00_ContentPlaceHolder1_lstBodies_DropDown')
-    for val in meetings.find_elements_by_tag_name('li'):
-        if val.text == meeting_type:
-            val.click()
-            break
-    WebDriverWait(driver, 10000).until(EC.presence_of_element_located(
-        (By.ID, 'ctl00_ContentPlaceHolder1_gridCalendar_ctl00')))    
-    All_Meetings =  driver.find_element_by_id('ctl00_ContentPlaceHolder1_divGrid') 
-    rows = All_Meetings.find_elements_by_tag_name('tr') 
-    Name_index = 0
-    Meeting_Date_index = 1
-    Meeting_Time_index = 2
-    Meeting_Details_index = 4
-    i = 0
-    for header in rows[0].find_elements_by_tag_name('th'):
-        if header.text == "Name":   
-            Name_index = i
-            print('Name found')
-        if header.text == "Meeting Date ":
-            Meeting_Date_index = i
-            print('MD found')
-        if header.text == "Meeting Time": 
-            Meeting_Time_index = i
-            print('MT')
-        if header.text == "Meeting Details": 
-            Meeting_Details_index = i
-            print('MDetails')
-        i += 1
-    for row in rows[1:]: 
-        cells = row.find_elements_by_tag_name('td')
-        Name = cells[Name_index].text
-        Meeting_Date = (cells[Meeting_Date_index].text).replace('/', '-')
-        Meeting_Time = cells[Meeting_Time_index].text
-        link = cells[Meeting_Details_index].find_element_by_link_text('Meeting details').get_attribute('href')
 
+    WebDriverWait(driver, 60).until(EC.presence_of_element_located(
+        (By.ID, 'ctl00_ContentPlaceHolder1_lstBodies_Input')))
+
+    meetings_dropdown = driver.find_element_by_id('ctl00_ContentPlaceHolder1_lstBodies_Input')
+    actions.move_to_element(meetings_dropdown).perform()
+    meetings_dropdown.click()
+    menu_items = driver.find_element_by_id('ctl00_ContentPlaceHolder1_lstBodies_DropDown')
+    for item in menu_items.find_elements_by_tag_name('li'):
+        if item.text == target_meeting:
+            item.click()
+            break
+
+    WebDriverWait(driver, 60).until(EC.presence_of_element_located(
+        (By.ID, 'ctl00_ContentPlaceHolder1_gridCalendar_ctl00')))
+
+    target_range_table = driver.find_element_by_id('ctl00_ContentPlaceHolder1_gridCalendar_ctl00')
+    for element in target_range_table.find_elements_by_link_text('Meeting details'):
+        link = element.get_attribute('href')
         if link is not None:
-   
-   
-            get_agenda(link, Meeting_Date, Name)
+            driver.execute_script(
+                '''window.open("%s", "_blank");''' %link)
+            WebDriverWait(driver, 20).until(EC.number_of_windows_to_be(2))
+            driver.switch_to_window(driver.window_handles[1])
+            WebDriverWait(driver, 60).until(EC.presence_of_all_elements_located(
+                (By.ID, 'ctl00_ContentPlaceHolder1_gridMain_ctl00')))
+
+            pdf_details['meeting_name'] = driver.find_element_by_id(
+                'ctl00_ContentPlaceHolder1_hypName').text
+            pdf_details['meeting_date'] = driver.find_element_by_id(
+                'ctl00_ContentPlaceHolder1_lblDate').text
+            pdf_details['meeting_time'] = driver.find_element_by_id(
+                'ctl00_ContentPlaceHolder1_lblTime').text
+
+            meeting_rows = driver.find_element_by_id('ctl00_ContentPlaceHolder1_gridMain_ctl00').find_elements_by_tag_name('tbody')[0].find_elements_by_tag_name('tr')
+            try:
+                def get_a(el):
+                    try:
+                        return el.find_element_by_tag_name('td a')
+                    except:
+                        return None
+
+                def get_href(el):
+                    if el is not None:
+                        return el.get_attribute('href')
+                    else:
+                        return None
+
+                meeting_links = map(get_a, meeting_rows)
+                agenda_links = filter(get_href, meeting_links)
+
+                for agenda_link in agenda_links:
+                    driver.execute_script(
+                        '''window.open("%s", "_blank");''' %agenda_link.get_attribute('href'))
+                    WebDriverWait(driver, 20).until(EC.number_of_windows_to_be(3))
+                    driver.switch_to_window(driver.window_handles[2])
+                    pdf_details['file_number'] = driver.find_element_by_id(
+                        'ctl00_ContentPlaceHolder1_lblFile2').text
+                    pdf_details['version'] = driver.find_element_by_id(
+                        'ctl00_ContentPlaceHolder1_lblVersion2').text
+                    try:
+                        # TODO change to link text contains 'memorandum'?
+                        memorandum = driver.find_element_by_link_text('Memorandum')
+                        memorandum.click()
+                        rename_file(pdf_details['city_name'] + '_'
+                            + pdf_details['meeting_name'] + '_'
+                            + pdf_details['meeting_date'] + '_'
+                            + pdf_details['meeting_time'] + '_'
+                            + pdf_details['file_number'] + '_'
+                            + pdf_details['version'] + '.pdf')
+                    finally:
+                        driver.close()
+                        driver.switch_to_window(driver.window_handles[1])
+                        continue
+
+            finally:
+                driver.close()
+                driver.switch_to_window(driver.window_handles[0])
+
     driver.close()
 
-def get_agenda(link, meeting_date, meeting_name):
-    print(link)
+if __name__ == "__main__":
+    from dotenv import load_dotenv
 
-    header_list = [ 'File #', 'Date', 'Meeting type', 'Staff Report link', 'Ver.', 'Agenda #', 'Agenda Note', 'Type', 'Title', 'Action', 'Result', 'Action Details', 'Video' ]
-# this is a revised list of headers for the output csv file.
+    load_dotenv()
+    full_path = os.environ.get('full_path')
+    current_city = sys.argv[1]
+    time_period = sys.argv[2]
+    target_meeting = sys.argv[3]
 
-    tables = pd.read_html(link, keep_default_na=False)
-    # sometimes generates ConnectionResetError
+    scrape_meetings(current_city, time_period, target_meeting)
 
-    last_table = len(tables) - 1
-    agenda_table = tables[last_table].reindex(columns = header_list)
-    agenda_table['Date'] = meeting_date
-    agenda_table['Meeting type'] = meeting_name
-# This adds new columns to dataframe for the 'Staff Report link', 'Date' and 'Meeting type'
-    agenda_table = agenda_table[agenda_table['File #'] != '']
-# Removes rows that don't have a File #
-    l = agenda_table['File #'].tolist()
-# Grabs column of File # to find Staff Report hyperlinks
-    data = []
-    r2 = session.get(link)
-# Loads Legistar 'Meeting Details' page
-
-    for item in l:
-        if not item:
-            # this checks for blank rows with no File # (Staff Report)
-            data.append('')
-        else:
-            report = r2.html.find('a', containing=str(item), first=True)
-# Finds hyperlinks from anchor tags
-            try:
-                data.append(report.attrs.get('href'))
-            except:
-                data.append('Error')
-                continue
-
-    agenda_table['Staff Report link'] = data
-    agenda_table.to_csv((full_path + meeting_name + '_' + meeting_date + '.csv'), index=False, errors='replace')
-# Creates filename with 'Meeting Name' and 'Date'
-    drive_upload(full_path, drive)
-
-scrape_meetings(current_city)
+# https://docs.google.com/presentation/d/1_GfTIlF5si0LWDcsyWteF_rGwk2LaQJcXpSGxz0N5TY/edit?usp=sharing
