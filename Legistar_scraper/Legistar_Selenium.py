@@ -140,7 +140,6 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
 
     driver.close()
 
-
 if __name__ == "__main__":
     from dotenv import load_dotenv
 
