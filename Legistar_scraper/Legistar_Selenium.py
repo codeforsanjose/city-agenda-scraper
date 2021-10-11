@@ -18,6 +18,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
+from get_agenda import *
 
 pdf_details = {}
 
@@ -76,9 +77,26 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
         (By.ID, 'ctl00_ContentPlaceHolder1_gridCalendar_ctl00')))
 
     target_range_table = driver.find_element_by_id('ctl00_ContentPlaceHolder1_gridCalendar_ctl00')
-    for element in target_range_table.find_elements_by_link_text('Meeting details'):
-        link = element.get_attribute('href')
+#============================
+    rows = target_range_table.find_elements_by_tag_name('tr') 
+    Name_index = 0
+    Meeting_Date_index = 1
+    Meeting_Time_index = 2
+    Meeting_Details_index = 4
+    for row in rows[1:]: 
+        cells = row.find_elements_by_tag_name('td')
+        Name = cells[Name_index].text
+        Meeting_Date = (cells[Meeting_Date_index].text).replace('/', '-')
+        Meeting_Time = cells[Meeting_Time_index].text 
+        try: 
+            link = row.find_element_by_link_text('Meeting details').get_attribute('href')
+        except: 
+            continue
         if link is not None:
+            get_agenda(link, Meeting_Date, Name)
+#imported get_agenda function creates {meeting_name}_{meeting_date}.csv and append new rows to master_list.csv
+#created csv files are added to {fullpath} dir
+#==============================
             driver.execute_script(
                 '''window.open("%s", "_blank");''' %link)
             WebDriverWait(driver, 20).until(EC.number_of_windows_to_be(2))
