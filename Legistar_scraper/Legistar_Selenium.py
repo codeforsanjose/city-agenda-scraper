@@ -19,6 +19,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 from get_agenda import *
+from GoogleDrive_upload import *
 
 pdf_details = {}
 
@@ -139,6 +140,7 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
                         'ctl00_ContentPlaceHolder1_lblVersion2').text
                     try:
                         # TODO change to link text contains 'memorandum'?
+                        #WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.LINK_TEXT, "Memorandum"))).click() 
                         memorandum = driver.find_element_by_link_text('Memorandum')
                         memorandum.click()
                         rename_file(pdf_details['city_name'] + '_'
@@ -169,5 +171,7 @@ if __name__ == "__main__":
     target_meeting = sys.argv[3]
 
     scrape_meetings(current_city, time_period, target_meeting)
+    drive = drive_launch()
+    drive_upload(full_path, drive, sys.argv[1])
 
 # https://docs.google.com/presentation/d/1_GfTIlF5si0LWDcsyWteF_rGwk2LaQJcXpSGxz0N5TY/edit?usp=sharing

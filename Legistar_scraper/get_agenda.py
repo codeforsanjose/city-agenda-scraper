@@ -5,17 +5,12 @@ from os.path import exists
 import csv
 
 header_list = [ 'File #', 'Date', 'Meeting type', 'Staff Report link', 'Ver.', 'Agenda #', 'Agenda Note', 'Type', 'Title', 'Action', 'Result', 'Action Details', 'Video' ]
-
-
 full_path = os.environ.get('full_path')
+
 def get_agenda(link, meeting_date, meeting_name):
     master_list_creation()
     session = HTMLSession()
     print(link)
-
-#    header_list = [ 'File #', 'Date', 'Meeting type', 'Staff Report link', 'Ver.', 'Agenda #', 'Agenda Note', 'Type', 'Title', 'Action', 'Result', 'Action Details', 'Video' ]
-# this is a revised list of headers for the output csv file, more may be added later
-
     tables = pd.read_html(link, keep_default_na=False)
     last_table = len(tables) - 1
     agenda_table = tables[last_table].reindex(columns = header_list)
@@ -55,19 +50,11 @@ def master_list_creation():
         csvfile.close()
 
 def master_list(df):
-    #need to add in check for full_path + master_list, add in headers if new) 
-    #if not exists(full_path + 'master_list.csv'): 
-    #    with open(full_path + 'master_list.csv', 'w+') as csvfile:
-    #        writer = csv.writer(csvfile)
-    #        writer.writerow(header_list)
-    #    csvfile.close()
     caller = pd.read_csv(full_path + 'master_list.csv', encoding='utf-8')
     caller = caller.append(df, ignore_index=False)
     caller = caller.drop_duplicates(subset=['Date', 'Meeting type', 'Agenda #'], )
     caller.to_csv(full_path + 'master_list.csv', index=False)
 
-#    master_list(agenda_table) 
-# Creates filename with 'Meeting Name' and 'Date'
 #    drive_upload(full_path, drive)
 
 #get_agenda('https://sanjose.legistar.com/MeetingDetail.aspx?ID=890211&GUID=3AA3C6A1-20A0-49CD-8E39-AA095DEC160A&Options=info|&Search=', '10-05-2021', 'sanjose')

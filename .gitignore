@@ -63,3 +63,4 @@ build-iPhoneSimulator/
 Legistar_scraper/chromedriver.exe
 Legistar_scraper/agenda_tables/City Council_10-19-2021.csv
 Legistar_scraper/.vscode/launch.json
+Legistar_scraper/client_secrets.json
