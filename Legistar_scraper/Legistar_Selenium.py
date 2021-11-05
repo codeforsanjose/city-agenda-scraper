@@ -76,9 +76,7 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
 
     WebDriverWait(driver, 60).until(EC.presence_of_element_located(
         (By.ID, 'ctl00_ContentPlaceHolder1_gridCalendar_ctl00')))
-
     target_range_table = driver.find_element_by_id('ctl00_ContentPlaceHolder1_gridCalendar_ctl00')
-#============================
     rows = target_range_table.find_elements_by_tag_name('tr') 
     Name_index = 0
     Meeting_Date_index = 1
@@ -159,7 +157,6 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
                 driver.switch_to_window(driver.window_handles[0])
 
     driver.close()
-
 
 if __name__ == "__main__":
     from dotenv import load_dotenv
