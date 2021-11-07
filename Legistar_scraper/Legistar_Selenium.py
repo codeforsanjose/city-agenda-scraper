@@ -144,9 +144,12 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
                         rename_file(pdf_details['city_name'] + '_'
                             + pdf_details['meeting_name'] + '_'
                             + pdf_details['meeting_date'] + '_'
-                            + pdf_details['meeting_time'] + '_'
+#                            + pdf_details['meeting_time'] + '_'
                             + pdf_details['file_number'] + '_'
                             + pdf_details['version'] + '.pdf')
+                    except Exception as error:
+                        print(str(type(error)))
+                        print(str(error.args))
                     finally:
                         driver.close()
                         driver.switch_to_window(driver.window_handles[1])
