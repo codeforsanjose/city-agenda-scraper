@@ -116,8 +116,9 @@ with open ('D:\Github\civic-scraper_Mark\\CA_city_websites_final.csv', encoding=
         data.append(row[0])
         try:
             response.html.render(timeout=30)
-        except Exception as e:
-            error_check(e)
+        except Exception as error:
+            print(str(type(error)))
+            print(str(error.args))
             continue
         sites = response.html.absolute_links
         for site in sites:
