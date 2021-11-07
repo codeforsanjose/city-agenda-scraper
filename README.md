@@ -37,9 +37,10 @@ For example, San Jose’s legistar page is https://sanjose.legistar.com. The url
 
 Example launch.json: 
 
-```{
+```
+{
+    "version": "0.2.0",
     "configurations": [
-         
         {
             "name": "Legistar - San Jose",
             "type": "python",
@@ -49,6 +50,7 @@ Example launch.json:
             "console": "integratedTerminal",
             "args": ["sanjose", "This Month", "City Council"]
         }
-    ]`
+    ]
 
-}```
+}
+```
