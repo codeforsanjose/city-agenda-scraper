@@ -34,3 +34,21 @@ For example, San Jose’s legistar page is https://sanjose.legistar.com. The url
 `arg[1]` : Time range to scrape. The default we’re using is “This Month” 
 
 `arg[2]` : The government body to scrape. The default we’re using is “City Council” 
+
+Example launch.json: 
+
+```{
+    "configurations": [
+         
+        {
+            "name": "Legistar - San Jose",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "cwd": "${fileDirname}/",
+            "console": "integratedTerminal",
+            "args": ["sanjose", "This Month", "City Council"]
+        }
+    ]`
+
+}```
