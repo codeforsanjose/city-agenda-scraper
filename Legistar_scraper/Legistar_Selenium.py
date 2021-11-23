@@ -18,6 +18,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
+from dotenv import load_dotenv
+
+load_dotenv()
 from get_agenda import *
 from GoogleDrive_upload import *
 
@@ -162,10 +165,8 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
     driver.close()
 
 if __name__ == "__main__":
-    from dotenv import load_dotenv
-
-    load_dotenv()
     full_path = os.environ.get('full_path')
+
     current_city = sys.argv[1]
     time_period = sys.argv[2]
     target_meeting = sys.argv[3]

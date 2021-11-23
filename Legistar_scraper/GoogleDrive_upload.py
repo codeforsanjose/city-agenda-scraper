@@ -87,6 +87,6 @@ def drive_upload(full_path, drive, current_city = 'sanjose'):
     # again
     upload_files(folder, full_path, drive)
 
-d = drive_launch()
-full_path = 'C:\\Users\\m_noa\\Documents\\GitHub\\city-agenda-scraper\\Legistar_scraper\\agenda_tables\\'
-drive_upload(full_path, d, 'sanjose')
+#d = drive_launch()
+#full_path = 'C:\\Users\\m_noa\\Documents\\GitHub\\city-agenda-scraper\\Legistar_scraper\\agenda_tables\\'
+#drive_upload(full_path, d, 'sanjose')
