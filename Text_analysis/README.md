@@ -2,6 +2,9 @@
 
 This folder is the text analysis portion of the agenda scraper.
 
+## Notebooks
+PDFToTokens and FindStopWords hold functions to get relevant text from the documents. TokensToKeywords stores functions to run the TF-IDF process to extract keywords. The notebook titled RunKeywordExtraction runs the functions defined in the previous notebooks to get the keywords output from each document.
+
 ## Structure
 
 For each agenda PDF we do the following:
