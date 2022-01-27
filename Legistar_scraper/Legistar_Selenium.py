@@ -49,6 +49,7 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
     pdf_details['city_name'] = city_name
 
     chrome_options = webdriver.ChromeOptions()
+    chrome_options.headless = True
     prefs = {"download.default_directory": full_path}
     chrome_options.add_experimental_option("prefs", prefs)
     driver = webdriver.Chrome(chrome_options=chrome_options)
