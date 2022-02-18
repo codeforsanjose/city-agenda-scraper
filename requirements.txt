@@ -2,5 +2,4 @@ selenium==3.141.0
 python-dotenv
 pydrive
 requests_html
-csv
-glob
+pandas
