@@ -11,6 +11,7 @@
 
 import glob
 import os
+import os.path
 import sys
 import time
 from selenium import webdriver
@@ -21,8 +22,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 from dotenv import load_dotenv
 
 load_dotenv()
-from get_agenda import *
-from GoogleDrive_upload import *
+from get_agenda import get_agenda, master_list_creation
+from GoogleDrive_upload import drive_upload, drive_launch
 
 pdf_details = {}
 
@@ -96,7 +97,7 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
         except: 
             continue
         if link is not None:
-            get_agenda(link, Meeting_Date, Name)
+            get_agenda(link, Meeting_Date, Name, session)
 #imported get_agenda function creates {meeting_name}_{meeting_date}.csv and append new rows to master_list.csv
 #created csv files are added to {fullpath} dir
 #==============================
@@ -172,7 +173,7 @@ if __name__ == "__main__":
     time_period = sys.argv[2]
     target_meeting = sys.argv[3]
 
-    if not exists(full_path + 'master_list.csv'):
+    if not os.path.exists(full_path + 'master_list.csv'):
         master_list_creation()
 
     scrape_meetings(current_city, time_period, target_meeting)
