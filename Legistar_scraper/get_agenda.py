@@ -11,7 +11,6 @@ full_path = os.environ.get('full_path')
 
 
 def get_agenda(link, meeting_date, meeting_name):
-    master_list_creation()
     session = HTMLSession()
     print(link)
     tables = pd.read_html(link, keep_default_na=False)
@@ -47,11 +46,10 @@ def get_agenda(link, meeting_date, meeting_name):
 
 
 def master_list_creation():
-    if not exists(full_path + 'master_list.csv'):
-        with open(full_path + 'master_list.csv', 'w+', encoding='utf-8') as csvfile:
-            writer = csv.writer(csvfile)
-            writer.writerow(header_list)
-        csvfile.close()
+    with open(full_path + 'master_list.csv', 'w+', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(header_list)
+    csvfile.close()
 
 
 def master_list(df):

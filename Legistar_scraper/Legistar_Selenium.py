@@ -172,6 +172,9 @@ if __name__ == "__main__":
     time_period = sys.argv[2]
     target_meeting = sys.argv[3]
 
+    if not exists(full_path + 'master_list.csv'):
+        master_list_creation()
+
     scrape_meetings(current_city, time_period, target_meeting)
     drive = drive_launch()
     drive_upload(full_path, drive, sys.argv[1])
