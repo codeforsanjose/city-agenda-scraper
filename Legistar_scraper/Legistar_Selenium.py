@@ -20,6 +20,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 from dotenv import load_dotenv
+from requests_html import HTMLSession
 
 load_dotenv()
 from get_agenda import get_agenda, master_list_creation
@@ -55,6 +56,8 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
     chrome_options.add_experimental_option("prefs", prefs)
     driver = webdriver.Chrome(chrome_options=chrome_options)
     actions = ActionChains(driver)
+
+    session = HTMLSession()
 
     driver.get("https://%s.legistar.com/Calendar.aspx" %city_name)
     WebDriverWait(driver, 60).until(EC.presence_of_element_located(

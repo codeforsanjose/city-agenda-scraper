@@ -10,8 +10,7 @@ header_list = ['File #', 'Date', 'Meeting type', 'Staff Report link', 'Ver.', '
 full_path = os.environ.get('full_path')
 
 
-def get_agenda(link, meeting_date, meeting_name):
-    session = HTMLSession()
+def get_agenda(link, meeting_date, meeting_name, session):
     print(link)
     tables = pd.read_html(link, keep_default_na=False)
     last_table = len(tables) - 1
