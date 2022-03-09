@@ -29,16 +29,25 @@ from GoogleDrive_upload import drive_upload, drive_launch
 pdf_details = {}
 
 
-def rename_file(new_name):
-    seconds = 0
-    dl_wait = True
-    while dl_wait and seconds < 20:
+def download_wait(timeout=20):
+    sec_elapsed = 0
+
+    while sec_elapsed < timeout:
         time.sleep(0.1)
-        dl_wait = False
+
         for fname in os.listdir(full_path):
-            if fname.endswith('.crdownload'):
-                dl_wait = True
-        seconds += 0.1
+            if fname.endswith('.crdownload'):  # ext for unfinished chrome downloads
+                break  # download is not done; we don't need to check the other files
+        else:  # if no .crdownload files are found
+            return True  # we are done waiting; return
+
+        sec_elapsed += 0.1
+
+    return False  # download did not finish before we timed out
+
+
+def rename_file(new_name):
+    download_wait()
 
     list_of_files = glob.glob(full_path + "/*")
     if len(list_of_files) > 0:
