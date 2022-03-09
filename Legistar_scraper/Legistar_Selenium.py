@@ -28,7 +28,7 @@ from GoogleDrive_upload import drive_upload, drive_launch
 
 pdf_details = {}
 
-def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meeting="City Council"):
+def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meeting="City Council", headless=True):
     def rename_file(new_name):
         seconds = 0
         dl_wait = True
@@ -51,7 +51,7 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
     pdf_details['city_name'] = city_name
 
     chrome_options = webdriver.ChromeOptions()
-    chrome_options.headless = True
+    chrome_options.headless = headless
     prefs = {"download.default_directory": full_path}
     chrome_options.add_experimental_option("prefs", prefs)
     driver = webdriver.Chrome(chrome_options=chrome_options)
@@ -171,6 +171,10 @@ def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meetin
 
 if __name__ == "__main__":
     full_path = os.environ.get('full_path')
+    if os.environ.get('mode') == 'dev':
+        headless = False
+    else:
+        headless = True
 
     current_city = sys.argv[1]
     time_period = sys.argv[2]
@@ -179,7 +183,7 @@ if __name__ == "__main__":
     if not os.path.exists(full_path + 'master_list.csv'):
         master_list_creation()
 
-    scrape_meetings(current_city, time_period, target_meeting)
+    scrape_meetings(current_city, time_period, target_meeting, headless)
     drive = drive_launch()
     drive_upload(full_path, drive, sys.argv[1])
 
