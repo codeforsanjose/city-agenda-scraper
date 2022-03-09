@@ -28,26 +28,28 @@ from GoogleDrive_upload import drive_upload, drive_launch
 
 pdf_details = {}
 
+
+def rename_file(new_name):
+    seconds = 0
+    dl_wait = True
+    while dl_wait and seconds < 20:
+        time.sleep(0.1)
+        dl_wait = False
+        for fname in os.listdir(full_path):
+            if fname.endswith('.crdownload'):
+                dl_wait = True
+        seconds += 0.1
+
+    list_of_files = glob.glob(full_path + "/*")
+    if len(list_of_files) > 0:
+        latest_file = max(list_of_files, key=os.path.getmtime)
+        os.rename(latest_file, full_path + '/' + new_name.replace('/', '-'))
+        return True
+
+    return False
+
+
 def scrape_meetings(city_name="sanjose", time_period="Last Month", target_meeting="City Council", headless=True):
-    def rename_file(new_name):
-        seconds = 0
-        dl_wait = True
-        while dl_wait and seconds < 20:
-            time.sleep(0.1)
-            dl_wait = False
-            for fname in os.listdir(full_path):
-                if fname.endswith('.crdownload'):
-                    dl_wait = True
-            seconds += 0.1
-
-        list_of_files = glob.glob(full_path + "/*")
-        if len(list_of_files) > 0:
-            latest_file = max(list_of_files, key=os.path.getmtime)
-            os.rename(latest_file, full_path + '/' + new_name.replace('/', '-'))
-            return True
-
-        return False
-
     pdf_details['city_name'] = city_name
 
     chrome_options = webdriver.ChromeOptions()
