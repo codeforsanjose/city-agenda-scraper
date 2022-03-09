@@ -12,9 +12,7 @@ full_path = os.environ.get('full_path')
 
 def get_agenda(link, meeting_date, meeting_name, session):
     print(link)
-    tables = pd.read_html(link, keep_default_na=False)
-    last_table = len(tables) - 1
-    agenda_table = tables[last_table].reindex(columns=header_list)
+    agenda_table = find_agenda_table(link).reindex(columns=header_list)
     agenda_table['Date'] = meeting_date
     agenda_table['Meeting type'] = meeting_name
     # This adds new columns to dataframe for the 'Staff Report link', 'Date' and 'Meeting type'
@@ -42,6 +40,13 @@ def get_agenda(link, meeting_date, meeting_name, session):
     agenda_table['Staff Report link'] = data
     agenda_table.to_csv((full_path + meeting_name + '_' + meeting_date + '.csv'), index=False, errors='replace')
     master_list(agenda_table)
+
+
+def find_agenda_table(link):
+    tables = pd.read_html(link, keep_default_na=False)
+    last_table = len(tables) - 1
+    table = tables[last_table]
+    return table
 
 
 def master_list_creation():
